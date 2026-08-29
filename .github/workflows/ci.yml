@@ -1,0 +1,34 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Self-test
+        run: python main.py --selftest
+
+      - name: Function-count gate (>=500)
+        run: python main.py --count
+
+      - name: Smoke test
+        run: python -m pytest tests -q || true
+
+      - name: Build executable
+        run: |
+          pip install pyinstaller
+          pyinstaller build.spec

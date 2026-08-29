@@ -1,0 +1,18 @@
+{
+  "scope": "breach_monitoring",
+  "keywords": [
+    "example.com",
+    "example@company.com",
+    "api_key",
+    "password",
+    "BEGIN RSA PRIVATE KEY"
+  ],
+  "use_tor": true,
+  "tor_proxy": ["127.0.0.1", 9050],
+  "i2p_proxy": [],
+  "alert_webhook": "",
+  "auto_search_keywords": false,
+  "tracker_feeds": [
+    "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt"
+  ]
+}

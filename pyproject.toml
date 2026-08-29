@@ -1,0 +1,28 @@
+[project]
+name = "resourcegather"
+version = "1.0.0"
+description = "Defense-grade OSINT resource-gathering framework (paste sites, torrent/file distribution, the inbetween, custom search)."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [{ name = "Nortaq-PlayNexus" }]
+keywords = ["osint", "threat-intel", "pastebins", "torrent", "leak-sites", "recon", "defensive"]
+dependencies = [
+    "requests>=2.31.0",
+    "beautifulsoup4>=4.12.0",
+    "requests[socks]",
+]
+
+[project.optional-dependencies]
+dev = ["pyinstaller>=6.0.0", "ruff"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py38"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I"]
+ignore = ["E501"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

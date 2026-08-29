@@ -1,0 +1,3620 @@
+{
+  "sites": [
+    {
+      "name": "pastebin.com",
+      "url": "https://pastebin.com"
+    },
+    {
+      "name": "justpaste.it",
+      "url": "https://justpaste.it"
+    },
+    {
+      "name": "jsfiddle.net",
+      "url": "https://jsfiddle.net"
+    },
+    {
+      "name": "paste.centos.org",
+      "url": "https://paste.centos.org"
+    },
+    {
+      "name": "jsbin.com",
+      "url": "http://jsbin.com"
+    },
+    {
+      "name": "pastelink.net",
+      "url": "https://pastelink.net"
+    },
+    {
+      "name": "codebeautify.org",
+      "url": "https://codebeautify.org"
+    },
+    {
+      "name": "controlc.com",
+      "url": "https://controlc.com"
+    },
+    {
+      "name": "ideone.com",
+      "url": "https://ideone.com"
+    },
+    {
+      "name": "paste.rohitab.com",
+      "url": "http://paste.rohitab.com"
+    },
+    {
+      "name": "codeshare.io",
+      "url": "https://codeshare.io"
+    },
+    {
+      "name": "paste.opensuse.org",
+      "url": "http://paste.opensuse.org"
+    },
+    {
+      "name": "dotnetfiddle.net",
+      "url": "https://dotnetfiddle.net"
+    },
+    {
+      "name": "notes.io",
+      "url": "https://notes.io"
+    },
+    {
+      "name": "paste2.org",
+      "url": "https://paste2.org"
+    },
+    {
+      "name": "www.toptal.com",
+      "url": "https://www.toptal.com/developers/hastebin"
+    },
+    {
+      "name": "ivpaste.com",
+      "url": "https://ivpaste.com"
+    },
+    {
+      "name": "justpaste.me",
+      "url": "https://justpaste.me"
+    },
+    {
+      "name": "pastebin.osuosl.org",
+      "url": "https://pastebin.osuosl.org"
+    },
+    {
+      "name": "bpa.st",
+      "url": "https://bpa.st"
+    },
+    {
+      "name": "paste.ofcode.org",
+      "url": "https://paste.ofcode.org"
+    },
+    {
+      "name": "friendpaste.com",
+      "url": "https://friendpaste.com"
+    },
+    {
+      "name": "defuse.ca",
+      "url": "https://defuse.ca/pastebin.htm"
+    },
+    {
+      "name": "dpaste.com",
+      "url": "https://dpaste.com"
+    },
+    {
+      "name": "cl1p.net",
+      "url": "https://cl1p.net"
+    },
+    {
+      "name": "pastie.org",
+      "url": "http://pastie.org"
+    },
+    {
+      "name": "pastecode.io",
+      "url": "https://pastecode.io"
+    },
+    {
+      "name": "pastebin.fr",
+      "url": "https://pastebin.fr"
+    },
+    {
+      "name": "jsitor.com",
+      "url": "http://jsitor.com"
+    },
+    {
+      "name": "termbin.com",
+      "url": "https://termbin.com"
+    },
+    {
+      "name": "p.ip.fi",
+      "url": "https://p.ip.fi"
+    },
+    {
+      "name": "cutapaste.net",
+      "url": "http://cutapaste.net"
+    },
+    {
+      "name": "paste.sh",
+      "url": "https://paste.sh"
+    },
+    {
+      "name": "paste-bin.xyz",
+      "url": "https://paste-bin.xyz"
+    },
+    {
+      "name": "paste.debian.net",
+      "url": "https://paste.debian.net"
+    },
+    {
+      "name": "paste.org.ru",
+      "url": "http://paste.org.ru"
+    },
+    {
+      "name": "quickhighlighter.com",
+      "url": "https://quickhighlighter.com"
+    },
+    {
+      "name": "commie.io",
+      "url": "https://commie.io"
+    },
+    {
+      "name": "kpaste.net",
+      "url": "https://kpaste.net"
+    },
+    {
+      "name": "n0paste.tk",
+      "url": "https://n0paste.tk"
+    },
+    {
+      "name": "tutpaste.com",
+      "url": "https://tutpaste.com"
+    },
+    {
+      "name": "nekobin.com",
+      "url": "https://nekobin.com"
+    },
+    {
+      "name": "pastes.io",
+      "url": "https://pastes.io"
+    },
+    {
+      "name": "paste.js.org",
+      "url": "https://paste.js.org"
+    },
+    {
+      "name": "paste.myst.rs",
+      "url": "https://paste.myst.rs"
+    },
+    {
+      "name": "beanpaste.fun",
+      "url": "https://beanpaste.fun"
+    },
+    {
+      "name": "rentry.co",
+      "url": "https://rentry.co/"
+    },
+    {
+      "name": "lesma.eu",
+      "url": "https://lesma.eu"
+    },
+    {
+      "name": "paste.monster",
+      "url": "https://paste.monster"
+    },
+    {
+      "name": "snippet.host",
+      "url": "https://snippet.host"
+    },
+    {
+      "name": "xi.pe",
+      "url": "https://xi.pe"
+    },
+    {
+      "name": "fragbin.com",
+      "url": "https://fragbin.com"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com"
+    },
+    {
+      "name": "hastebin.dev",
+      "url": "https://hastebin.dev"
+    },
+    {
+      "name": "bin.lysator.liu.se",
+      "url": "https://bin.lysator.liu.se"
+    },
+    {
+      "name": "8n1.org",
+      "url": "https://8n1.org"
+    },
+    {
+      "name": "zigbin.io",
+      "url": "https://zigbin.io"
+    },
+    {
+      "name": "bin.jarkon.fi",
+      "url": "https://bin.jarkon.fi"
+    },
+    {
+      "name": "235523.xyz",
+      "url": "https://235523.xyz"
+    },
+    {
+      "name": "jaw.gg",
+      "url": "https://jaw.gg"
+    },
+    {
+      "name": "pastecode.ru",
+      "url": "https://pastecode.ru"
+    },
+    {
+      "name": "modernpaste.com",
+      "url": "https://modernpaste.com"
+    },
+    {
+      "name": "pastee.dev",
+      "url": "https://pastee.dev"
+    },
+    {
+      "name": "pastecn.com",
+      "url": "https://pastecn.com"
+    },
+    {
+      "name": "paste.jp",
+      "url": "https://paste.jp"
+    },
+    {
+      "name": "vpaste.net",
+      "url": "http://vpaste.net"
+    },
+    {
+      "name": "bin.bloerg.net",
+      "url": "https://bin.bloerg.net"
+    },
+    {
+      "name": "crypticbin.com",
+      "url": "https://crypticbin.com"
+    },
+    {
+      "name": "pastey.gg",
+      "url": "https://pastey.gg"
+    },
+    {
+      "name": "gitlab.com",
+      "url": "https://gitlab.com/explore/snippets"
+    },
+    {
+      "name": "codepen.io",
+      "url": "https://codepen.io"
+    },
+    {
+      "name": "repl.it",
+      "url": "https://repl.it"
+    },
+    {
+      "name": "invent.kde.org",
+      "url": "https://invent.kde.org/explore/snippets"
+    },
+    {
+      "name": "snipplr.com",
+      "url": "https://snipplr.com"
+    },
+    {
+      "name": "paste.xinu.at",
+      "url": "http://paste.xinu.at"
+    },
+    {
+      "name": "www.geany.org",
+      "url": "https://www.geany.org/p/"
+    },
+    {
+      "name": "paste.pound-python.org",
+      "url": "http://paste.pound-python.org"
+    },
+    {
+      "name": "paste.frubar.net",
+      "url": "http://paste.frubar.net/"
+    },
+    {
+      "name": "bitbin.it",
+      "url": "https://bitbin.it"
+    },
+    {
+      "name": "paste.ee",
+      "url": "https://paste.ee"
+    },
+    {
+      "name": "slexy.org",
+      "url": "https://slexy.org"
+    },
+    {
+      "name": "textsnip.com",
+      "url": "https://textsnip.com"
+    },
+    {
+      "name": "phpfiddle.org",
+      "url": "http://phpfiddle.org"
+    },
+    {
+      "name": "www.heypasteit.com",
+      "url": "https://www.heypasteit.com"
+    },
+    {
+      "name": "paste.lisp.org",
+      "url": "http://paste.lisp.org"
+    },
+    {
+      "name": "pasteall.org",
+      "url": "https://pasteall.org"
+    },
+    {
+      "name": "www.paste.lv",
+      "url": "https://www.paste.lv"
+    },
+    {
+      "name": "ghostbin.com",
+      "url": "https://ghostbin.com"
+    },
+    {
+      "name": "ide.geeksforgeeks.org",
+      "url": "https://ide.geeksforgeeks.org"
+    },
+    {
+      "name": "pastefs.com",
+      "url": "https://pastefs.com"
+    },
+    {
+      "name": "dpaste.org",
+      "url": "https://dpaste.org"
+    },
+    {
+      "name": "macrobin.co",
+      "url": "https://macrobin.co"
+    },
+    {
+      "name": "bin.maple.rest",
+      "url": "https://bin.maple.rest"
+    },
+    {
+      "name": "hastebin.com",
+      "url": "https://hastebin.com"
+    },
+    {
+      "name": "fferen.kpaste.net",
+      "url": "https://fferen.kpaste.net/"
+    },
+    {
+      "name": "eilios.kpaste.net",
+      "url": "https://eilios.kpaste.net/"
+    },
+    {
+      "name": "rathena.kpaste.net",
+      "url": "https://rathena.kpaste.net/"
+    },
+    {
+      "name": "99paste.com",
+      "url": "https://99paste.com/"
+    },
+    {
+      "name": "pastething.com",
+      "url": "https://pastething.com"
+    },
+    {
+      "name": "nzxj65x32vh2fkhk.onion",
+      "url": "http://nzxj65x32vh2fkhk.onion"
+    },
+    {
+      "name": "zerobinqmdqd236y.onion",
+      "url": "http://zerobinqmdqd236y.onion"
+    },
+    {
+      "name": "4m6omb3gmrmnwzxi.onion",
+      "url": "http://4m6omb3gmrmnwzxi.onion"
+    },
+    {
+      "name": "pasterbox.net",
+      "url": "https://pasterbox.net/blog/best-pastebin-sites-2026"
+    },
+    {
+      "name": "baldiv.com",
+      "url": "https://baldiv.com/"
+    },
+    {
+      "name": "static.cloudflareinsights.com",
+      "url": "https://static.cloudflareinsights.com/beacon.min.js/v3d52b47920f24c319d37e2661827c42b1787588026925"
+    },
+    {
+      "name": "pastes.io",
+      "url": "https://pastes.io/pages/pastebin-sites"
+    },
+    {
+      "name": "privatebin.info",
+      "url": "https://privatebin.info"
+    },
+    {
+      "name": "s.ee",
+      "url": "https://s.ee/blog/best-pastebin-alternatives/"
+    },
+    {
+      "name": "s.ee",
+      "url": "https://s.ee/blog/"
+    },
+    {
+      "name": "s.ee",
+      "url": "https://s.ee/blog/author/david/"
+    },
+    {
+      "name": "s.ee",
+      "url": "https://s.ee/blog/rss/"
+    },
+    {
+      "name": "s.ee",
+      "url": "https://s.ee/"
+    },
+    {
+      "name": "s.ee",
+      "url": "https://s.ee/blog/about/"
+    },
+    {
+      "name": "s.ee",
+      "url": "https://s.ee/pricing/"
+    },
+    {
+      "name": "s.ee",
+      "url": "https://s.ee/blog/tag/pastebin-alternatives/"
+    },
+    {
+      "name": "s.ee",
+      "url": "https://s.ee/?ref=s.ee"
+    },
+    {
+      "name": "s.ee",
+      "url": "https://s.ee/pricing?ref=s.ee"
+    },
+    {
+      "name": "s.ee",
+      "url": "https://s.ee/user/register/?ref=s.ee"
+    },
+    {
+      "name": "i.see.you",
+      "url": "https://i.see.you/2026/01/21/id7K/image.webp"
+    },
+    {
+      "name": "paste.to",
+      "url": "https://paste.to/?ref=s.ee"
+    },
+    {
+      "name": "privatebin.info",
+      "url": "https://privatebin.info/?ref=s.ee"
+    },
+    {
+      "name": "controlc.com",
+      "url": "https://controlc.com/?ref=s.ee"
+    },
+    {
+      "name": "s.ee",
+      "url": "https://s.ee/blog/what-is-link-management-guide/"
+    },
+    {
+      "name": "s.ee",
+      "url": "https://s.ee/blog/how-to-create-a-qr-code-for-any-link/"
+    },
+    {
+      "name": "x.com",
+      "url": "https://x.com/intent/tweet?text=The%206%20Best%20Pastebin%20Alternatives%20in%202026&amp;url=https://s.ee/blog/best-pastebin-alternatives/"
+    },
+    {
+      "name": "bsky.app",
+      "url": "https://bsky.app/intent/compose?text=The%206%20Best%20Pastebin%20Alternatives%20in%202026%20https://s.ee/blog/best-pastebin-alternatives/"
+    },
+    {
+      "name": "s.ee",
+      "url": "https://s.ee/about/"
+    },
+    {
+      "name": "s.ee",
+      "url": "https://s.ee/contact/"
+    },
+    {
+      "name": "s.ee",
+      "url": "https://s.ee/privacy/"
+    },
+    {
+      "name": "s.ee",
+      "url": "https://s.ee/terms/"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/pages/top-pastebin-alternatives-in-2026"
+    },
+    {
+      "name": "www.googletagmanager.com",
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-9B8YTQY27Y"
+    },
+    {
+      "name": "www.googletagmanager.com",
+      "url": "https://www.googletagmanager.com/gtag/js?id=AW-17744890880"
+    },
+    {
+      "name": "pagead2.googlesyndication.com",
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5490730855939658"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/img/gistpad.webp"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/archive/all"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/api_doc"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/trending"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/blog"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/search"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/login"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/register"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/tihon-9455"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/ghmiklagh-4"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/tihonscriptslua"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/tihonscriptssss"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/coinfarm-autoaim-etc"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/autoaim-esp-coinfarm"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/coin-farm-esp-aimbot"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/archive"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/pages/about"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/pages/privacy-policy"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/pages/gdpr-compliance"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/pages/security"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/pages/terms"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/pages/pastebin-alternative"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/pages/github-gist-alternative"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/pages/faq"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/pages/roblox-pastebin"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/pages/pastebin-sites"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/pages/justpaste-alternative"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/pages/pastebin-search"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/pages/gistpad-vs-pastebin"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/pages/free-pastebin-alternatives-in-2026"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/pages/share-code-online"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/pages/paste-json-online"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/dmca"
+    },
+    {
+      "name": "gistpad.com",
+      "url": "https://gistpad.com/contact"
+    },
+    {
+      "name": "x.com",
+      "url": "https://x.com/gistpadcom"
+    },
+    {
+      "name": "mc.yandex.ru",
+      "url": "https://mc.yandex.ru/metrika/tag.js?id=108527258"
+    },
+    {
+      "name": "mc.yandex.ru",
+      "url": "https://mc.yandex.ru/watch/108527258"
+    },
+    {
+      "name": "swiftclip.io",
+      "url": "https://swiftclip.io"
+    },
+    {
+      "name": "swiftclip.io\\",
+      "url": "https://swiftclip.io\\"
+    },
+    {
+      "name": "swiftclip.io\\\\\\",
+      "url": "https://swiftclip.io\\\\\\"
+    },
+    {
+      "name": "appmus.com",
+      "url": "https://appmus.com/alternatives-to/pastebin"
+    },
+    {
+      "name": "appmus.com",
+      "url": "https://appmus.com"
+    },
+    {
+      "name": "appmus.com",
+      "url": "https://appmus.com/search?q={search_term_string}"
+    },
+    {
+      "name": "appmus.com",
+      "url": "https://appmus.com/contact"
+    },
+    {
+      "name": "pagead2.googlesyndication.com",
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3446794639831831"
+    },
+    {
+      "name": "www.googletagmanager.com",
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-MZMXRQ24RB"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/xmlrpc.php"
+    },
+    {
+      "name": "gmpg.org",
+      "url": "https://gmpg.org/xfn/11"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/5-best-pastebin-alternatives/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/5-best-pastebin-alternatives/?amp"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/feed/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/comments/feed/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/5-best-pastebin-alternatives/feed/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblog.drhack.net%2F5-best-pastebin-alternatives%2F"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblog.drhack.net%2F5-best-pastebin-alternatives%2F&#038;format=xml"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.6"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/plugins/meks-flexible-shortcodes/css/simple-line/simple-line-icons.css?ver=1.3.8"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/plugins/meks-flexible-shortcodes/css/style.css?ver=1.3.8"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/plugins/wp-event-manager/assets/css/frontend.min.css?ver=1.0.0"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/plugins/wp-event-manager/assets/js/jquery-ui/jquery-ui.css?ver=1.0.0"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/plugins/wp-event-manager/assets/js/jquery-timepicker/jquery.timepicker.min.css?ver=1.0.0"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/plugins/wp-event-manager/assets/css/wpem-grid.min.css?ver=1.0.0"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/plugins/wp-event-manager/assets/fonts/style.css?ver=1.0.0"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/themes/gridlove/assets/css/min.css?ver=2.1.2"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/plugins/meks-easy-ads-widget/css/style.css?ver=2.0.9"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/plugins/meks-easy-instagram-widget/css/widget.css?ver=7.0.4"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/plugins/meks-simple-flickr-widget/css/style.css?ver=1.3"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/plugins/meks-smart-author-widget/css/style.css?ver=1.1.5"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/plugins/meks-smart-social-widget/css/style.css?ver=1.6.5"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/plugins/meks-themeforest-smart-widget/css/style.css?ver=1.6"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/plugins/meks-easy-social-share/assets/css/main.css?ver=1.3"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"
+    },
+    {
+      "name": "www.googletagmanager.com",
+      "url": "https://www.googletagmanager.com/gtag/js?id=GT-K5432SC"
+    },
+    {
+      "name": "api.w.org",
+      "url": "https://api.w.org/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-json/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-json/wp/v2/posts/1301"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/xmlrpc.php?rsd"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/?p=1301"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net"
+    },
+    {
+      "name": "pagead2.googlesyndication.com",
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9560246310544037&#038;host=ca-host-pub-2644536267352236"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/about/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/contact-us/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/write-a-post/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/disclaimer/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/privacy-policy/"
+    },
+    {
+      "name": "feeds.feedburner.com",
+      "url": "http://feeds.feedburner.com/hackology"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/category/hacking/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/category/how-to/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/category/cryptocurrency/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/category/mobile/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/category/mobile/android/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/category/mobile/apply/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/category/tips-tricks/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/category/operating-system/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/category/operating-system/windows/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/category/operating-system/linux/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/category/operating-system/mac/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/events/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/post-an-event/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/author/abdulraziq/"
+    },
+    {
+      "name": "secure.gravatar.com",
+      "url": "https://secure.gravatar.com/avatar/9a70207d73dd8170abd68297a37fb5116a830c1b8cc8a9c8bcb76e65a9c5d972?s=24&amp;d=retro&amp;r=g"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/5-best-pastebin-alternatives/#disqus_thread"
+    },
+    {
+      "name": "paste.drhack.net",
+      "url": "https://paste.drhack.net"
+    },
+    {
+      "name": "drhack.net",
+      "url": "https://drhack.net/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/best-alternatives/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/pastebin-alternatives/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/get-instaflow-bot-for-free-insta-followers/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/free-50k-likes-on-facebook/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-admin/options-general.php?page=meks-instagram"
+    },
+    {
+      "name": "inl02.netline.com",
+      "url": "https://inl02.netline.com/rssnews0001/"
+    },
+    {
+      "name": "u.is",
+      "url": "https://u.is/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/whatsapp-blank-status-message-trick/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/author/dr-hack/"
+    },
+    {
+      "name": "secure.gravatar.com",
+      "url": "https://secure.gravatar.com/avatar/2fbfaa3951973980fa3d8b7fafc171c83819e8d91ef2bab7e6ab07b4fdf5b71f?s=24&amp;d=retro&amp;r=g"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/how-comment-blank-on-instagram-facebook/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/ai/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/android/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/apple/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/beta/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/bitcoin/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/blank/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/bug/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/chrome/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/cryptocurrency/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/cybersecurity/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/decentralized/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/facebook/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/facebook-feature/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/features/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/google/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/google-plus/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/hacked/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/hackers/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/hacking/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/hidden-features/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/huawei/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/image/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/instagram/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/ios/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/iphone/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/malware/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/messenger/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/microsoft/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/mobile/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/online-games/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/operating-system/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/p2p/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/privacy/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/scam/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/telegram/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/twitter/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/usa/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/utopia/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/vpn/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/whatsapp/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/whatsapp-beta/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/whatsapp-feature/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/windows/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/windows-10-features/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/tag/youtube/"
+    },
+    {
+      "name": "hackology.co",
+      "url": "https://hackology.co/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/whatsapp-blank-status-message-trick/#disqus_thread"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "http://blog.drhack.net/?p=1082"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/how-comment-blank-on-instagram-facebook/#disqus_thread"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/?p=32574"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/hack-facebook-account-password/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/hack-facebook-account-password/#disqus_thread"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/?p=32829"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/whatsapp-message-waiting-for-this-message-this-may-take-a-while-explained/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/whatsapp-message-waiting-for-this-message-this-may-take-a-while-explained/#disqus_thread"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "http://blog.drhack.net/?p=1540"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/whatsapp-telegram-hacking-demo-live-ss7-vulnerability/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/whatsapp-telegram-hacking-demo-live-ss7-vulnerability/#disqus_thread"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "http://blog.drhack.net/?p=1374"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/how-to-keep-a-blank-name-on-instagram/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/how-to-keep-a-blank-name-on-instagram/#disqus_thread"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "http://blog.drhack.net/?p=1894"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-admin/admin-ajax.php"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.6"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.6"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/plugins/disqus-conditional-load/assets/js/embed-count-click.min.js?ver=11.1.2"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/plugins/meks-flexible-shortcodes/js/main.js?ver=1"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/plugins/wp-event-manager/assets/js/common.min.js?ver=3.3.5"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/plugins/wp-event-manager/assets/js/jquery-timepicker/jquery.timepicker.min.js?ver=3.3.5"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-includes/js/imagesloaded.min.js?ver=5.0.0"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-includes/js/masonry.min.js?ver=4.2.2"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/themes/gridlove/assets/js/min.js?ver=2.1.2"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/plugins/meks-easy-social-share/assets/js/main.js?ver=1.3"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=4.2.0"
+    },
+    {
+      "name": "cdn.onesignal.com",
+      "url": "https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js?ver=1.0.0"
+    },
+    {
+      "name": "s.w.org",
+      "url": "https://s.w.org/images/core/emoji/17.0.2/72x72/"
+    },
+    {
+      "name": "s.w.org",
+      "url": "https://s.w.org/images/core/emoji/17.0.2/svg/"
+    },
+    {
+      "name": "blog.drhack.net",
+      "url": "https://blog.drhack.net/wp-includes/js/wp-emoji-release.min.js?ver=7.0.4"
+    },
+    {
+      "name": "yoast.com",
+      "url": "https://yoast.com/product/yoast-seo-wordpress/"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/best-pastebin-alternative"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/feed"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/comments/feed"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/best-pastebin-alternative/feed"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fquickfever.com%2Fbest-pastebin-alternative"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fquickfever.com%2Fbest-pastebin-alternative&#038;format=xml"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-content/plugins/canvas/assets/fonts/canvas-icons.woff2"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-content/plugins/canvas/assets/css/canvas.css?ver=2.5.5"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-content/themes/squaretype/css/fonts/hg-grotesk-500.woff2"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-content/themes/squaretype/css/fonts/hg-grotesk-500.woff"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-content/themes/squaretype/css/fonts/hg-grotesk-600.woff2"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-content/themes/squaretype/css/fonts/hg-grotesk-600.woff"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-content/themes/squaretype/css/fonts/hg-grotesk-700.woff2"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-content/themes/squaretype/css/fonts/hg-grotesk-700.woff"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-content/plugins/canvas/components/posts/block-posts-sidebar/block-posts-sidebar.css?ver=1787240652"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-content/plugins/canvas/components/content-formatting/block-heading/block.css?ver=1787240652"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-content/plugins/canvas/components/content-formatting/block-list/block.css?ver=1787240652"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-content/plugins/canvas/components/content-formatting/block-paragraph/block.css?ver=1787240652"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-content/plugins/canvas/components/content-formatting/block-separator/block.css?ver=1787240652"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-content/plugins/canvas/components/basic-elements/block-group/block.css?ver=1787240652"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-content/plugins/canvas/components/basic-elements/block-cover/block.css?ver=1787240652"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-content/themes/squaretype/style.css?ver=4.0.0"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"
+    },
+    {
+      "name": "www.googletagmanager.com",
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-XL5QYZE3TE"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-json/"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-json/wp/v2/posts/3431"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/xmlrpc.php?rsd"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/?p=3431"
+    },
+    {
+      "name": "pagead2.googlesyndication.com",
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8293792128598414&#038;host=ca-host-pub-2644536267352236"
+    },
+    {
+      "name": "fevr.vercel.app",
+      "url": "https://fevr.vercel.app/uploads/Akshar.ttf"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/computing/windows"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/topic/windows-11"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/topic/windows-10"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/computing"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/computing/how-to"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/app-directory"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/computing/operating-system"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/streaming-entertainment"
+    },
+    {
+      "name": "textbin.net",
+      "url": "https://textbin.net/"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/topic/writing-tool"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/best-pastebin-alternative#comment-122952"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/best-pastebin-alternative#comment-108443"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/best-pastebin-alternative#comment-107560"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/best-pastebin-alternative#comment-278"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/best-pastebin-alternative#comment-279"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/best-pastebin-alternative#comment-122399"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-comments-post.php"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/reviews"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/windows-11-free-vpn-047917"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/news/article"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/best-cloud-storage-sites"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/news"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/best-windows-11-apps"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/google-chrome-830879"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/best-web-browsers-for-windows"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/windows-11-best-vpn-047918"
+    },
+    {
+      "name": "pagead2.googlesyndication.com",
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8293792128598414"
+    },
+    {
+      "name": "mimrot.com",
+      "url": "https://mimrot.com"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/about"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/contact"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/terms-of-service"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/privacy-policy/"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/support-us"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-content/plugins/canvas/components/posts/block-posts/colcade.js?ver=2.5.5"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-content/themes/squaretype/js/ofi.min.js?ver=3.2.3"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-json/csco/v1/menu-posts"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-content/themes/squaretype/js/scripts.js?ver=4.0.0"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-includes/js/comment-reply.min.js?ver=7.1"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-content/plugins/optimization-detective/detect.min.js?ver=1.0.0-beta6"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-content/plugins/image-prioritizer/detect.min.js?ver=1.0.0-beta3"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-content/plugins/optimization-detective/build/web-vitals.js?ver=5.1.0"
+    },
+    {
+      "name": "quickfever.com",
+      "url": "https://quickfever.com/wp-content/plugins/optimization-detective/detect-loader.min.js?ver=1.0.0-beta6"
+    },
+    {
+      "name": "cloakbin.com",
+      "url": "https://cloakbin.com/faq/what-are-alternatives-to-pastebin"
+    },
+    {
+      "name": "cloakbin.com",
+      "url": "https://cloakbin.com/#webapp"
+    },
+    {
+      "name": "cloakbin.com",
+      "url": "https://cloakbin.com"
+    },
+    {
+      "name": "cloakbin.com",
+      "url": "https://cloakbin.com/#organization"
+    },
+    {
+      "name": "cloakbin.com",
+      "url": "https://cloakbin.com/#website"
+    },
+    {
+      "name": "www.googletagmanager.com",
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-QH5TZWE2BQ"
+    },
+    {
+      "name": "www.droptext.app",
+      "url": "https://www.droptext.app/blog/pastebin-alternatives"
+    },
+    {
+      "name": "www.droptext.app",
+      "url": "https://www.droptext.app/api/og?title=Best%20Pastebin%20Alternatives%20in%202026%3A%208%20Tools%20Compared&amp;subtitle=Pastebin%20still%20works%2C%20but%20ads%2C%20public%20pastes%20and%20free-tier%20caps%20push%20people%20elsewhere.%20Here%20are%20the%208%20best%20alternatives%20for%202026%20%E2%80%94%20honest%20pros%2C%20cons%20and%20a%20when-to-use%20guide."
+    },
+    {
+      "name": "www.droptext.app",
+      "url": "https://www.droptext.app/#organization"
+    },
+    {
+      "name": "www.droptext.app",
+      "url": "https://www.droptext.app"
+    },
+    {
+      "name": "www.droptext.app",
+      "url": "https://www.droptext.app/#website"
+    },
+    {
+      "name": "www.droptext.app",
+      "url": "https://www.droptext.app/#webapp"
+    },
+    {
+      "name": "www.droptext.app",
+      "url": "https://www.droptext.app/pricing"
+    },
+    {
+      "name": "www.droptext.app",
+      "url": "https://www.droptext.app/authors/jatin-saini"
+    },
+    {
+      "name": "x.com",
+      "url": "https://x.com/Jatin__Saini"
+    },
+    {
+      "name": "www.droptext.app",
+      "url": "https://www.droptext.app/api/og?title=Best%20Pastebin%20Alternatives%20in%202026%3A%208%20Tools%20Compared&subtitle=Pastebin%20still%20works%2C%20but%20ads%2C%20public%20pastes%20and%20free-tier%20caps%20push%20people%20elsewhere.%20Here%20are%20the%208%20best%20alternatives%20for%202026%20%E2%80%94%20honest%20pros%2C%20cons%20and%20a%20when-to-use%20guide."
+    },
+    {
+      "name": "www.droptext.app",
+      "url": "https://www.droptext.app/blog"
+    },
+    {
+      "name": "www.droptext.app",
+      "url": "https://www.droptext.app/blog/pastebin-alternatives#faq"
+    },
+    {
+      "name": "news.ycombinator.com",
+      "url": "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fwww.droptext.app%2Fblog%2Fpastebin-alternatives&amp;t=Best%20Pastebin%20Alternatives%20in%202026%3A%208%20Tools%20Compared"
+    },
+    {
+      "name": "api.whatsapp.com",
+      "url": "https://api.whatsapp.com/send?text=Best%20Pastebin%20Alternatives%20in%202026%3A%208%20Tools%20Compared%20https%3A%2F%2Fwww.droptext.app%2Fblog%2Fpastebin-alternatives"
+    },
+    {
+      "name": "www.googletagmanager.com",
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-QH5TZWE2BQ\\"
+    },
+    {
+      "name": "www.droptext.app",
+      "url": "https://www.droptext.app/#organization\\"
+    },
+    {
+      "name": "www.droptext.app",
+      "url": "https://www.droptext.app/#website\\"
+    },
+    {
+      "name": "www.droptext.app",
+      "url": "https://www.droptext.app/#webapp\\"
+    },
+    {
+      "name": "x.com",
+      "url": "https://x.com/Jatin__Saini\\"
+    },
+    {
+      "name": "www.droptext.app",
+      "url": "https://www.droptext.app/api/og?title=Best%20Pastebin%20Alternatives%20in%202026%3A%208%20Tools%20Compared\\u0026subtitle=Pastebin%20still%20works%2C%20but%20ads%2C%20public%20pastes%20and%20free-tier%20caps%20push%20people%20elsewhere.%20Here%20are%20the%208%20best%20alternatives%20for%202026%20%E2%80%94%20honest%20pros%2C%20cons%20and%20a%20when-to-use%20guide.\\"
+    },
+    {
+      "name": "www.droptext.app",
+      "url": "https://www.droptext.app/blog/pastebin-alternatives#faq\\"
+    },
+    {
+      "name": "discourse.ubuntu.com",
+      "url": "https://discourse.ubuntu.com/t/alternative-pastebin-options/82842"
+    },
+    {
+      "name": "discourse.ubuntu.com",
+      "url": "https://discourse.ubuntu.com/opensearch.xml"
+    },
+    {
+      "name": "discourse.ubuntu.com",
+      "url": "https://discourse.ubuntu.com/t/alternative-pastebin-options/82842.rss"
+    },
+    {
+      "name": "discourse.ubuntu.com",
+      "url": "https://discourse.ubuntu.com/u/rubi1200"
+    },
+    {
+      "name": "discourse.ubuntu.com",
+      "url": "https://discourse.ubuntu.com/tag/community"
+    },
+    {
+      "name": "discourse.ubuntu.com",
+      "url": "https://discourse.ubuntu.com/tag/discussion"
+    },
+    {
+      "name": "discourse.ubuntu.com",
+      "url": "https://discourse.ubuntu.com/t/ubuntu-pastebin-decommissioning/82824"
+    },
+    {
+      "name": "discourse.ubuntu.com",
+      "url": "https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-946/83071"
+    },
+    {
+      "name": "discourse.ubuntu.com",
+      "url": "https://discourse.ubuntu.com/u/bashing-om"
+    },
+    {
+      "name": "discourse.ubuntu.com",
+      "url": "https://discourse.ubuntu.com/u/paddylandau"
+    },
+    {
+      "name": "discourse.ubuntu.com",
+      "url": "https://discourse.ubuntu.com/u/carlin0"
+    },
+    {
+      "name": "pastecode.dev",
+      "url": "https://pastecode.dev/"
+    },
+    {
+      "name": "paste.rs",
+      "url": "https://paste.rs/web"
+    },
+    {
+      "name": "discourse.ubuntu.com",
+      "url": "https://discourse.ubuntu.com/u/Jeremy31"
+    },
+    {
+      "name": "discourse.ubuntu.com",
+      "url": "https://discourse.ubuntu.com/u/sem"
+    },
+    {
+      "name": "www.ubuntu.com",
+      "url": "https://www.ubuntu.com/legal"
+    },
+    {
+      "name": "www.ubuntu.com",
+      "url": "https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+    },
+    {
+      "name": "www.discourse.org",
+      "url": "https://www.discourse.org"
+    },
+    {
+      "name": "ubuntu.com",
+      "url": "https://ubuntu.com/legal"
+    },
+    {
+      "name": "ubuntu.com",
+      "url": "https://ubuntu.com/legal/data-privacy"
+    },
+    {
+      "name": "openosint.tech",
+      "url": "https://openosint.tech/blog/pastebin-osint.html"
+    },
+    {
+      "name": "openosint.tech",
+      "url": "https://openosint.tech"
+    },
+    {
+      "name": "tommasodev.gumroad.com",
+      "url": "https://tommasodev.gumroad.com/l/ai-osint-prompt-pack?utm_source=site&amp;utm_medium=blog_cta&amp;utm_campaign=prompt_pack"
+    },
+    {
+      "name": "tailscale.com",
+      "url": "https://tailscale.com/learn/best-pastebin-alternatives-for-secure-text-sharing"
+    },
+    {
+      "name": "tailscale.com",
+      "url": "https://tailscale.com/api/og-image?id=97b5e3f9-5fb8-4701-97a9-ca40f922a472"
+    },
+    {
+      "name": "tailscale.com",
+      "url": "https://tailscale.com/blog/index.xml"
+    },
+    {
+      "name": "tailscale.com",
+      "url": "https://tailscale.com/changelog/index.xml"
+    },
+    {
+      "name": "tailscale.com",
+      "url": "https://tailscale.com/security-bulletins/index.xml"
+    },
+    {
+      "name": "tailscale.com",
+      "url": "http://tailscale.com/blog/dns-filtering-by-control-d"
+    },
+    {
+      "name": "tailscale.com",
+      "url": "https://tailscale.com/use-cases/securing-ai"
+    },
+    {
+      "name": "tailscale.com",
+      "url": "https://tailscale.com/bring-tailscale-to-work"
+    },
+    {
+      "name": "login.tailscale.com",
+      "url": "https://login.tailscale.com/welcome"
+    },
+    {
+      "name": "login.tailscale.com",
+      "url": "https://login.tailscale.com/start"
+    },
+    {
+      "name": "tailscale.dev",
+      "url": "https://tailscale.dev/blog/tclip"
+    },
+    {
+      "name": "tailscale.com",
+      "url": "https://tailscale.com/community/community-projects"
+    },
+    {
+      "name": "cdn.sanity.io",
+      "url": "https://cdn.sanity.io/images/w77i7m8x/production/90e2ca60be7a63ed677b56ad293b23f1aae42baa-362x567.svg?w=384&amp;q=75&amp;fit=clip&amp;auto=format"
+    },
+    {
+      "name": "cdn.sanity.io",
+      "url": "https://cdn.sanity.io/images/w77i7m8x/production/90e2ca60be7a63ed677b56ad293b23f1aae42baa-362x567.svg?w=750&amp;q=75&amp;fit=clip&amp;auto=format"
+    },
+    {
+      "name": "cdn.sanity.io",
+      "url": "https://cdn.sanity.io/images/w77i7m8x/production/4590b93f6cc3b4573e5cd5cefe90e62f935e5aa7-199x81.svg?w=256&amp;q=75&amp;fit=clip&amp;auto=format"
+    },
+    {
+      "name": "cdn.sanity.io",
+      "url": "https://cdn.sanity.io/images/w77i7m8x/production/4590b93f6cc3b4573e5cd5cefe90e62f935e5aa7-199x81.svg?w=640&amp;q=75&amp;fit=clip&amp;auto=format"
+    },
+    {
+      "name": "cdn.sanity.io",
+      "url": "https://cdn.sanity.io/images/w77i7m8x/production/698d5ead889b4e5a57f60549e74102b82ad7aae8-199x81.svg?w=256&amp;q=75&amp;fit=clip&amp;auto=format"
+    },
+    {
+      "name": "cdn.sanity.io",
+      "url": "https://cdn.sanity.io/images/w77i7m8x/production/698d5ead889b4e5a57f60549e74102b82ad7aae8-199x81.svg?w=640&amp;q=75&amp;fit=clip&amp;auto=format"
+    },
+    {
+      "name": "cdn.sanity.io",
+      "url": "https://cdn.sanity.io/images/w77i7m8x/production/258b299c38fba23800176525d02e7ce713f74820-199x82.svg?w=256&amp;q=75&amp;fit=clip&amp;auto=format"
+    },
+    {
+      "name": "cdn.sanity.io",
+      "url": "https://cdn.sanity.io/images/w77i7m8x/production/258b299c38fba23800176525d02e7ce713f74820-199x82.svg?w=640&amp;q=75&amp;fit=clip&amp;auto=format"
+    },
+    {
+      "name": "cdn.sanity.io",
+      "url": "https://cdn.sanity.io/images/w77i7m8x/production/b74adcdab85e2515c997140d08827f084bccfa2a-199x81.svg?w=256&amp;q=75&amp;fit=clip&amp;auto=format"
+    },
+    {
+      "name": "cdn.sanity.io",
+      "url": "https://cdn.sanity.io/images/w77i7m8x/production/b74adcdab85e2515c997140d08827f084bccfa2a-199x81.svg?w=640&amp;q=75&amp;fit=clip&amp;auto=format"
+    },
+    {
+      "name": "status.tailscale.com",
+      "url": "https://status.tailscale.com"
+    },
+    {
+      "name": "discord.gg",
+      "url": "https://discord.gg/tailscale"
+    },
+    {
+      "name": "hachyderm.io",
+      "url": "https://hachyderm.io/@tailscale"
+    },
+    {
+      "name": "tailscale.com",
+      "url": "https://tailscale.com/blog/border0-joins-tailscale/?utm_source=announcement-bar\\u0026utm_medium=content\\u0026utm_campaign=border0-announcement"
+    },
+    {
+      "name": "tailscale.com",
+      "url": "https://tailscale.com/privacy-policy#california-notice"
+    },
+    {
+      "name": "tailscale.com",
+      "url": "https://tailscale.com/cookie-notice"
+    },
+    {
+      "name": "tailscale.com",
+      "url": "https://tailscale.com/customers"
+    },
+    {
+      "name": "1time",
+      "url": "https://1time.io"
+    },
+    {
+      "name": "Demo",
+      "url": "https://chiyogami.myaddr.dev/"
+    },
+    {
+      "name": "Hemmelig",
+      "url": "https://hemmelig.app"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://gitlab.com/ogarcia/lesma"
+    },
+    {
+      "name": "not-th.re",
+      "url": "https://not-th.re"
+    },
+    {
+      "name": "Opengist",
+      "url": "https://opengist.io"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.opengist.io"
+    },
+    {
+      "name": "paaster",
+      "url": "https://paaster.io"
+    },
+    {
+      "name": "pacebin",
+      "url": "https://git.crueter.xyz/crueter/pacebin"
+    },
+    {
+      "name": "Demo",
+      "url": "https://paste.crueter.xyz"
+    },
+    {
+      "name": "Password Pusher",
+      "url": "https://pwpush.com"
+    },
+    {
+      "name": "Pastefy",
+      "url": "https://pastefy.app/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://privatebin.net/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://snipo.melashri.dev/"
+    },
+    {
+      "name": "SnyPy",
+      "url": "https://snypy.com"
+    },
+    {
+      "name": "Demo",
+      "url": "https://app.snypy.com"
+    },
+    {
+      "name": "Demo",
+      "url": "https://yopass.se/"
+    },
+    {
+      "name": "Dashy",
+      "url": "https://dashy.to/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.dashy.to/"
+    },
+    {
+      "name": "Heimdall",
+      "url": "https://heimdall.site/"
+    },
+    {
+      "name": "Homarr",
+      "url": "https://homarr.dev"
+    },
+    {
+      "name": "Demo",
+      "url": "https://homer-demo.netlify.app"
+    },
+    {
+      "name": "LinkStack",
+      "url": "https://linkstack.org/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://linksta.cc/"
+    },
+    {
+      "name": "LittleLink",
+      "url": "https://littlelink.io/"
+    },
+    {
+      "name": "Mafl",
+      "url": "https://mafl.hywax.space/"
+    },
+    {
+      "name": "Nimbus",
+      "url": "https://nimbus.turboot.com/"
+    },
+    {
+      "name": "Personal Management System",
+      "url": "https://volmarg.github.io/"
+    },
+    {
+      "name": "portkey",
+      "url": "https://portkey.page"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.portkey.page"
+    },
+    {
+      "name": "Chevereto",
+      "url": "https://chevereto.com/"
+    },
+    {
+      "name": "ChronoFrame",
+      "url": "https://chronoframe.bh8.ga/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://lens.bh8.ga/"
+    },
+    {
+      "name": "Damselfly",
+      "url": "https://damselfly.info"
+    },
+    {
+      "name": "Ente",
+      "url": "https://ente.com/"
+    },
+    {
+      "name": "Immich",
+      "url": "https://immich.app/"
+    },
+    {
+      "name": "Clients",
+      "url": "https://docs.librephotos.com/docs/user-guide/mobile/"
+    },
+    {
+      "name": "Lychee",
+      "url": "https://lycheeorg.github.io/"
+    },
+    {
+      "name": "Mediagoblin",
+      "url": "https://mediagoblin.org"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://git.savannah.gnu.org/cgit/mediagoblin.git/tree/"
+    },
+    {
+      "name": "Memtly",
+      "url": "https://docs.memtly.com/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.memtly.com/"
+    },
+    {
+      "name": "Nextcloud Memories",
+      "url": "https://memories.gallery/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.memories.gallery/apps/memories/"
+    },
+    {
+      "name": "PhotoPrism",
+      "url": "https://photoprism.org"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.photoprism.app/library/browse"
+    },
+    {
+      "name": "Photoview",
+      "url": "https://photoview.github.io/"
+    },
+    {
+      "name": "PiGallery 2",
+      "url": "https://bpatrik.github.io/pigallery2/"
+    },
+    {
+      "name": "Piwigo",
+      "url": "https://piwigo.org/"
+    },
+    {
+      "name": "Thumbor",
+      "url": "http://thumbor.org/"
+    },
+    {
+      "name": "Zenphoto",
+      "url": "https://www.zenphoto.org/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://bitpoll.de/"
+    },
+    {
+      "name": "Bracket",
+      "url": "https://docs.bracketapp.nl/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://www.bracketapp.nl/demo"
+    },
+    {
+      "name": "Claper",
+      "url": "https://claper.co/"
+    },
+    {
+      "name": "ClearFlask",
+      "url": "https://clearflask.com"
+    },
+    {
+      "name": "Demo",
+      "url": "https://product.clearflask.com"
+    },
+    {
+      "name": "docassemble",
+      "url": "https://docassemble.org/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.docassemble.org/run/legal"
+    },
+    {
+      "name": "EventSchedule",
+      "url": "https://eventschedule.com/"
+    },
+    {
+      "name": "Fider",
+      "url": "https://fider.io"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.fider.io"
+    },
+    {
+      "name": "Formbricks",
+      "url": "https://formbricks.com"
+    },
+    {
+      "name": "Demo",
+      "url": "https://app.formbricks.com"
+    },
+    {
+      "name": "Framadate",
+      "url": "https://framadate.org/abc/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://framadate.org/aqg259dth55iuhwm"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://framagit.org/framasoft/framadate?"
+    },
+    {
+      "name": "Gancio",
+      "url": "https://gancio.org/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.gancio.org/"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://framagit.org/les/gancio"
+    },
+    {
+      "name": "gathio",
+      "url": "https://docs.gath.io/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://gath.io/"
+    },
+    {
+      "name": "HeyForm",
+      "url": "https://heyform.net"
+    },
+    {
+      "name": "hitobito",
+      "url": "https://hitobito.com"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.hitobito.com/en/users/sign_in"
+    },
+    {
+      "name": "LimeSurvey",
+      "url": "https://www.limesurvey.org"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.limesurvey.org"
+    },
+    {
+      "name": "Meetable",
+      "url": "https://events.indieweb.org"
+    },
+    {
+      "name": "Mobilizon",
+      "url": "https://mobilizon.org"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://framagit.org/framasoft/mobilizon/"
+    },
+    {
+      "name": "OpnForm",
+      "url": "https://opnform.com"
+    },
+    {
+      "name": "Demo",
+      "url": "https://opnform.com/forms/create/guest"
+    },
+    {
+      "name": "Revel",
+      "url": "https://www.letsrevel.io"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.letsrevel.io"
+    },
+    {
+      "name": "g3proxy",
+      "url": "https://g3-project.readthedocs.io/projects/g3proxy/en/latest/"
+    },
+    {
+      "name": "GitProxy",
+      "url": "https://git-proxy.finos.org/"
+    },
+    {
+      "name": "imgproxy",
+      "url": "https://imgproxy.net/"
+    },
+    {
+      "name": "iodine",
+      "url": "https://code.kryo.se/iodine/"
+    },
+    {
+      "name": "Outline Server",
+      "url": "https://getoutline.org/"
+    },
+    {
+      "name": "Privoxy",
+      "url": "https://www.privoxy.org"
+    },
+    {
+      "name": "Squid",
+      "url": "http://www.squid-cache.org/"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://code.launchpad.net/squid"
+    },
+    {
+      "name": "Tinyproxy",
+      "url": "https://tinyproxy.github.io/"
+    },
+    {
+      "name": "Bar Assistant",
+      "url": "https://barassistant.app/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.barassistant.app/"
+    },
+    {
+      "name": "CookCLI",
+      "url": "https://cooklang.org"
+    },
+    {
+      "name": "Fork Recipes",
+      "url": "https://mikebgrep.github.io/forkapi/latest/clients/"
+    },
+    {
+      "name": "ManageMeals",
+      "url": "https://managemeals.com/"
+    },
+    {
+      "name": "Mealie",
+      "url": "https://nightly.mealie.io/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.mealie.io"
+    },
+    {
+      "name": "Demo",
+      "url": "https://recipesage.com"
+    },
+    {
+      "name": "Recipya",
+      "url": "https://recipes.musicavis.ca"
+    },
+    {
+      "name": "Demo",
+      "url": "https://recipes.musicavis.ca/guide/login"
+    },
+    {
+      "name": "Tamari",
+      "url": "https://tamariapp.com"
+    },
+    {
+      "name": "Demo",
+      "url": "https://app.tamariapp.com"
+    },
+    {
+      "name": "Vanilla Cookbook",
+      "url": "https://vanilla-cookbook.readthedocs.io/en/"
+    },
+    {
+      "name": "Engity's Bifr\u00f6st",
+      "url": "https://bifroest.engity.org/"
+    },
+    {
+      "name": "Firezone",
+      "url": "https://www.firezone.dev/"
+    },
+    {
+      "name": "Guacamole",
+      "url": "https://guacamole.apache.org"
+    },
+    {
+      "name": "MeshCentral",
+      "url": "https://meshcentral.com/"
+    },
+    {
+      "name": "ShellHub",
+      "url": "https://www.shellhub.io"
+    },
+    {
+      "name": "Demo",
+      "url": "https://sshwifty-demo.nirui.org"
+    },
+    {
+      "name": "Termix",
+      "url": "https://docs.termix.site/"
+    },
+    {
+      "name": "Dolibarr",
+      "url": "https://www.dolibarr.org/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://www.dolibarr.org/onlinedemo.php"
+    },
+    {
+      "name": "ERPNext",
+      "url": "https://frappe.io/erpnext"
+    },
+    {
+      "name": "farmOS",
+      "url": "https://farmos.org/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://farmos-demo.rootedsolutions.io/"
+    },
+    {
+      "name": "grocy",
+      "url": "https://grocy.info/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://en.demo.grocy.info/"
+    },
+    {
+      "name": "LedgerSMB",
+      "url": "https://ledgersmb.org/"
+    },
+    {
+      "name": "Odoo",
+      "url": "https://www.odoo.com"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.odoo.com/"
+    },
+    {
+      "name": "OFBiz",
+      "url": "https://ofbiz.apache.org/"
+    },
+    {
+      "name": "Tryton",
+      "url": "https://www.tryton.org/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://www.tryton.org/demo"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://foss.heptapod.net/tryton/tryton"
+    },
+    {
+      "name": "Aleph",
+      "url": "https://aleph.occrp.org/"
+    },
+    {
+      "name": "Amgix",
+      "url": "https://amgix.io"
+    },
+    {
+      "name": "Demo",
+      "url": "https://findgovdata.org"
+    },
+    {
+      "name": "Apache Solr",
+      "url": "https://lucene.apache.org/solr/"
+    },
+    {
+      "name": "Fess",
+      "url": "https://fess.codelibs.org/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://search.n2sm.co.jp/"
+    },
+    {
+      "name": "Hister",
+      "url": "https://hister.org/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.hister.org/"
+    },
+    {
+      "name": "MeiliSearch",
+      "url": "https://www.meilisearch.com"
+    },
+    {
+      "name": "OpenSearch",
+      "url": "https://opensearch.org"
+    },
+    {
+      "name": "SearXNG",
+      "url": "https://docs.searxng.org/"
+    },
+    {
+      "name": "Sosse",
+      "url": "https://sosse.readthedocs.io/en/stable/"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://gitlab.com/biolds1/sosse"
+    },
+    {
+      "name": "Typesense",
+      "url": "https://typesense.org"
+    },
+    {
+      "name": "Yacy",
+      "url": "https://yacy.net/en/index.html"
+    },
+    {
+      "name": "DietPi",
+      "url": "https://dietpi.com/"
+    },
+    {
+      "name": "DockSTARTer",
+      "url": "https://dockstarter.com/"
+    },
+    {
+      "name": "Dropserver",
+      "url": "https://dropserver.org"
+    },
+    {
+      "name": "FreedomBox",
+      "url": "https://freedombox.org/"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://salsa.debian.org/freedombox-team/freedombox"
+    },
+    {
+      "name": "HomeButler",
+      "url": "https://homebutler.dev"
+    },
+    {
+      "name": "HomelabOS",
+      "url": "https://homelabos.com"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://gitlab.com/NickBusey/HomelabOS"
+    },
+    {
+      "name": "HomeServerHQ",
+      "url": "https://www.homeserverhq.com/"
+    },
+    {
+      "name": "LibreServer",
+      "url": "https://libreserver.org/"
+    },
+    {
+      "name": "Nirvati",
+      "url": "https://nirvati.org"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://gitlab.com/nirvati-ug/nirvati/backend"
+    },
+    {
+      "name": "OpenMediaVault",
+      "url": "https://www.openmediavault.org/"
+    },
+    {
+      "name": "Sandstorm",
+      "url": "https://sandstorm.io/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.sandstorm.io/"
+    },
+    {
+      "name": "StartOS",
+      "url": "https://start9.com"
+    },
+    {
+      "name": "Syncloud",
+      "url": "https://syncloud.org/"
+    },
+    {
+      "name": "Tipi",
+      "url": "https://runtipi.io/"
+    },
+    {
+      "name": "UBOS",
+      "url": "https://ubos.net/"
+    },
+    {
+      "name": "Websoft9",
+      "url": "https://www.websoft9.com"
+    },
+    {
+      "name": "Demo",
+      "url": "https://www.websoft9.com/demo"
+    },
+    {
+      "name": "Clients",
+      "url": "https://www.websoft9.com/apps"
+    },
+    {
+      "name": "WikiSuite",
+      "url": "https://wikisuite.org"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://wikisuite.org/Source-Code"
+    },
+    {
+      "name": "xsrv",
+      "url": "https://xsrv.readthedocs.io/"
+    },
+    {
+      "name": "YunoHost",
+      "url": "https://yunohost.org/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://yunohost.org/#/try"
+    },
+    {
+      "name": "Aastro",
+      "url": "https://starwalkn.github.io/aastro-docs"
+    },
+    {
+      "name": "DreamFactory",
+      "url": "https://www.dreamfactory.com/"
+    },
+    {
+      "name": "form.io",
+      "url": "https://form.io"
+    },
+    {
+      "name": "Demo",
+      "url": "https://portal.form.io"
+    },
+    {
+      "name": "Fusio",
+      "url": "https://www.fusio-project.org/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://fusio-project.org/demo"
+    },
+    {
+      "name": "Graphweaver",
+      "url": "https://graphweaver.com/"
+    },
+    {
+      "name": "Hasura",
+      "url": "https://hasura.io"
+    },
+    {
+      "name": "Hoppscotch Community Edition",
+      "url": "https://hoppscotch.io"
+    },
+    {
+      "name": "Kong",
+      "url": "https://konghq.com/kong/"
+    },
+    {
+      "name": "Lura",
+      "url": "https://luraproject.org/"
+    },
+    {
+      "name": "Opik",
+      "url": "https://www.comet.com/site/products/opik/"
+    },
+    {
+      "name": "Para",
+      "url": "https://paraio.org"
+    },
+    {
+      "name": "Svix",
+      "url": "https://svix.com"
+    },
+    {
+      "name": "Tyk",
+      "url": "https://tyk.io"
+    },
+    {
+      "name": "Featbit",
+      "url": "https://www.featbit.co/"
+    },
+    {
+      "name": "Flagsmith",
+      "url": "https://flagsmith.com"
+    },
+    {
+      "name": "Flipt",
+      "url": "https://flipt.io"
+    },
+    {
+      "name": "GO Feature Flag",
+      "url": "https://gofeatureflag.org"
+    },
+    {
+      "name": "Atheos",
+      "url": "https://www.atheos.io"
+    },
+    {
+      "name": "Coder",
+      "url": "https://coder.com/"
+    },
+    {
+      "name": "Eclipse Che",
+      "url": "https://www.eclipse.org/che/"
+    },
+    {
+      "name": "Hopp",
+      "url": "https://gethopp.app"
+    },
+    {
+      "name": "Judge0 CE",
+      "url": "https://judge0.com"
+    },
+    {
+      "name": "JupyterLab",
+      "url": "https://jupyterlab.readthedocs.io/en/stable/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab"
+    },
+    {
+      "name": "Langfuse",
+      "url": "https://langfuse.com"
+    },
+    {
+      "name": "Demo",
+      "url": "https://langfuse.com/docs/demo"
+    },
+    {
+      "name": "Clients",
+      "url": "https://langfuse.com/docs/integrations/overview"
+    },
+    {
+      "name": "LiveCodes",
+      "url": "https://livecodes.io/docs/features/self-hosting"
+    },
+    {
+      "name": "Demo",
+      "url": "https://livecodes.io"
+    },
+    {
+      "name": "Lowdefy",
+      "url": "https://www.lowdefy.com/"
+    },
+    {
+      "name": "RapidForge",
+      "url": "https://rapidforge.io/"
+    },
+    {
+      "name": "RStudio Server",
+      "url": "https://www.rstudio.com/products/rstudio/#Server"
+    },
+    {
+      "name": "Accent",
+      "url": "https://www.accent.reviews/"
+    },
+    {
+      "name": "Tolgee",
+      "url": "https://tolgee.io"
+    },
+    {
+      "name": "Traduora",
+      "url": "https://traduora.co"
+    },
+    {
+      "name": "Weblate",
+      "url": "https://weblate.org"
+    },
+    {
+      "name": "Appsmith",
+      "url": "https://www.appsmith.com/"
+    },
+    {
+      "name": "Appwrite",
+      "url": "https://appwrite.io"
+    },
+    {
+      "name": "Halo",
+      "url": "https://www.halo.run"
+    },
+    {
+      "name": "Demo",
+      "url": "https://docs.halo.run/#%E5%9C%A8%E7%BA%BF%E4%BD%93%E9%AA%8C"
+    },
+    {
+      "name": "Manifest",
+      "url": "https://manifest.build"
+    },
+    {
+      "name": "Demo",
+      "url": "https://manifest.new"
+    },
+    {
+      "name": "PocketBase",
+      "url": "https://pocketbase.io/"
+    },
+    {
+      "name": "Saltcorn",
+      "url": "https://saltcorn.com/"
+    },
+    {
+      "name": "SQLPage",
+      "url": "https://sql-page.com"
+    },
+    {
+      "name": "ToolJet",
+      "url": "https://tooljet.io/"
+    },
+    {
+      "name": "TrailBase",
+      "url": "https://trailbase.io/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.trailbase.io"
+    },
+    {
+      "name": "Cgit",
+      "url": "https://git.zx2c4.com/cgit/about/"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://git.zx2c4.com/cgit/tree/"
+    },
+    {
+      "name": "Forgejo",
+      "url": "https://forgejo.org"
+    },
+    {
+      "name": "Demo",
+      "url": "https://next.forgejo.org"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://codeberg.org/forgejo/forgejo/"
+    },
+    {
+      "name": "Clients",
+      "url": "https://codeberg.org/forgejo-contrib/delightful-forgejo"
+    },
+    {
+      "name": "Fossil",
+      "url": "https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki"
+    },
+    {
+      "name": "Gerrit",
+      "url": "https://www.gerritcodereview.com/"
+    },
+    {
+      "name": "gitbucket",
+      "url": "https://gitbucket.github.io/"
+    },
+    {
+      "name": "Gitea",
+      "url": "https://gitea.com"
+    },
+    {
+      "name": "Demo",
+      "url": "https://gitea.com/explore/repos"
+    },
+    {
+      "name": "GitLab",
+      "url": "https://about.gitlab.com"
+    },
+    {
+      "name": "Demo",
+      "url": "https://gitlab.com/"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://gitlab.com/gitlab-org/gitlab-foss"
+    },
+    {
+      "name": "Gogs",
+      "url": "https://gogs.io/"
+    },
+    {
+      "name": "Huly",
+      "url": "https://huly.io"
+    },
+    {
+      "name": "Ideon",
+      "url": "https://www.theideon.com"
+    },
+    {
+      "name": "Kaneo",
+      "url": "https://kaneo.app/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.kaneo.app/"
+    },
+    {
+      "name": "Leantime",
+      "url": "https://leantime.io"
+    },
+    {
+      "name": "Mindwendel",
+      "url": "https://www.mindwendel.com/"
+    },
+    {
+      "name": "Octobox",
+      "url": "https://octobox.io/"
+    },
+    {
+      "name": "OneDev",
+      "url": "https://onedev.io/"
+    },
+    {
+      "name": "OpenProject",
+      "url": "https://www.openproject.org"
+    },
+    {
+      "name": "Phorge",
+      "url": "https://we.phorge.it/"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://we.phorge.it/source/phorge/"
+    },
+    {
+      "name": "Plane",
+      "url": "https://plane.so"
+    },
+    {
+      "name": "Demo",
+      "url": "https://app.plane.so"
+    },
+    {
+      "name": "ProjeQtOr",
+      "url": "https://www.projeqtor.org/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.projeqtor.org/"
+    },
+    {
+      "name": "Redmine",
+      "url": "https://www.redmine.org/"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://svn.redmine.org/redmine/"
+    },
+    {
+      "name": "Review Board",
+      "url": "https://www.reviewboard.org/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.reviewboard.org/"
+    },
+    {
+      "name": "RhodeCode",
+      "url": "https://rhodecode.com/"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://code.rhodecode.com/"
+    },
+    {
+      "name": "Rukovoditel",
+      "url": "https://www.rukovoditel.net/"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://www.rukovoditel.net/download.php"
+    },
+    {
+      "name": "SCM Manager",
+      "url": "https://www.scm-manager.org/"
+    },
+    {
+      "name": "ShipShipShip",
+      "url": "https://shipshipship.io"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.shipshipship.io/admin"
+    },
+    {
+      "name": "Smederee",
+      "url": "https://smeder.ee"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://smeder.ee/~jan0sch/smederee"
+    },
+    {
+      "name": "Sourcehut",
+      "url": "https://sourcehut.org/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://sr.ht/"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://git.sr.ht/~sircmpwn/git.sr.ht/tree"
+    },
+    {
+      "name": "Taiga",
+      "url": "https://www.taiga.io/"
+    },
+    {
+      "name": "Titra",
+      "url": "https://titra.io/"
+    },
+    {
+      "name": "Trac",
+      "url": "https://trac.edgewall.org/"
+    },
+    {
+      "name": "Traq",
+      "url": "https://traq.io/"
+    },
+    {
+      "name": "Tuleap",
+      "url": "https://www.tuleap.org/"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://tuleap.net/plugins/git/tuleap/tuleap/stable?p=tuleap%2Fstable.git&a=tree"
+    },
+    {
+      "name": "UVDesk",
+      "url": "https://www.uvdesk.com/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.uvdesk.com/"
+    },
+    {
+      "name": "ZenTao",
+      "url": "https://www.zentao.pm/"
+    },
+    {
+      "name": "Bencher",
+      "url": "https://bencher.dev/"
+    },
+    {
+      "name": "Request Inbox",
+      "url": "https://request-inbox.com/"
+    },
+    {
+      "name": "staticsitegenerators.bevry.me",
+      "url": "https://staticsitegenerators.bevry.me"
+    },
+    {
+      "name": "staticgen.com",
+      "url": "https://www.staticgen.com"
+    },
+    {
+      "name": "4ga Boards",
+      "url": "https://4gaboards.com"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.4gaboards.com"
+    },
+    {
+      "name": "AppFlowy",
+      "url": "https://appflowy.io/"
+    },
+    {
+      "name": "dayGLANCE",
+      "url": "https://dayglance.app"
+    },
+    {
+      "name": "Donetick",
+      "url": "https://donetick.com"
+    },
+    {
+      "name": "Demo",
+      "url": "https://app.donetick.com/"
+    },
+    {
+      "name": "HamsterBase Tasks",
+      "url": "https://tasks.hamsterbase.com"
+    },
+    {
+      "name": "Demo",
+      "url": "https://tasks-app.hamsterbase.com"
+    },
+    {
+      "name": "Kan",
+      "url": "https://kan.bn/"
+    },
+    {
+      "name": "Kanboard",
+      "url": "https://kanboard.org/"
+    },
+    {
+      "name": "myTinyTodo",
+      "url": "https://www.mytinytodo.net/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://www.mytinytodo.net/demo/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://nullboard.io/preview"
+    },
+    {
+      "name": "OpenHabitTracker",
+      "url": "https://openhabittracker.net"
+    },
+    {
+      "name": "Demo",
+      "url": "https://pwa.openhabittracker.net"
+    },
+    {
+      "name": "Our Shopping List",
+      "url": "https://codeberg.org/nanawel/our-shopping-list"
+    },
+    {
+      "name": "Demo",
+      "url": "https://osl.lanterne-rouge.info/"
+    },
+    {
+      "name": "Super Productivity",
+      "url": "https://super-productivity.com"
+    },
+    {
+      "name": "Taskwarrior",
+      "url": "https://taskwarrior.org/"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://taskwarrior.org/download/#git"
+    },
+    {
+      "name": "Tellor",
+      "url": "https://tellor.cc/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://tellor.cc/demo/?b=18486f63be6bb5f2"
+    },
+    {
+      "name": "Tracks",
+      "url": "https://www.getontracks.org/"
+    },
+    {
+      "name": "tududi",
+      "url": "https://tududi.com/"
+    },
+    {
+      "name": "Vikunja",
+      "url": "https://vikunja.io/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://try.vikunja.io/login"
+    },
+    {
+      "name": "Wekan",
+      "url": "https://wekan.github.io/"
+    },
+    {
+      "name": "Will Be Done",
+      "url": "https://will-be-done.app/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.will-be-done.app/"
+    },
+    {
+      "name": "BugPin",
+      "url": "https://bugpin.io"
+    },
+    {
+      "name": "Bugzilla",
+      "url": "https://www.bugzilla.org/"
+    },
+    {
+      "name": "Frappe Helpdesk",
+      "url": "https://frappe.io/helpdesk"
+    },
+    {
+      "name": "FreeScout",
+      "url": "https://freescout.net/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.freescout.net/login"
+    },
+    {
+      "name": "GlitchTip",
+      "url": "https://glitchtip.com"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://gitlab.com/glitchtip/glitchtip"
+    },
+    {
+      "name": "ITFlow",
+      "url": "https://itflow.org"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.itflow.org"
+    },
+    {
+      "name": "Libredesk",
+      "url": "https://libredesk.io/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.libredesk.io"
+    },
+    {
+      "name": "MantisBT",
+      "url": "https://www.mantisbt.org/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://www.mantisbt.org/bugs/my_view_page.php"
+    },
+    {
+      "name": "OTOBO",
+      "url": "https://otobo.io/en/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://otobo.io/en/service-management-plattform/otobo-demo/"
+    },
+    {
+      "name": "Request Tracker",
+      "url": "https://www.bestpractical.com/rt/"
+    },
+    {
+      "name": "Roundup Issue Tracker",
+      "url": "https://www.roundup-tracker.org/"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://www.roundup-tracker.org/code.html"
+    },
+    {
+      "name": "Zammad",
+      "url": "https://zammad.org/"
+    },
+    {
+      "name": "ActivityWatch",
+      "url": "https://activitywatch.net"
+    },
+    {
+      "name": "Demo",
+      "url": "https://beaverhabits.com/demo"
+    },
+    {
+      "name": "Ever Gauzy",
+      "url": "https://gauzy.co"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.gauzy.co"
+    },
+    {
+      "name": "Kimai",
+      "url": "https://www.kimai.org/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://www.kimai.org/demo/"
+    },
+    {
+      "name": "solidtime",
+      "url": "https://www.solidtime.io"
+    },
+    {
+      "name": "TimeTagger",
+      "url": "https://timetagger.app"
+    },
+    {
+      "name": "Demo",
+      "url": "https://timetagger.app/app/demo"
+    },
+    {
+      "name": "TimeTracker",
+      "url": "https://timetracker.drytrix.com/"
+    },
+    {
+      "name": "Traggo",
+      "url": "https://traggo.net/"
+    },
+    {
+      "name": "Wakapi",
+      "url": "https://wakapi.dev/"
+    },
+    {
+      "name": "Ziit",
+      "url": "https://ziit.app"
+    },
+    {
+      "name": "Surmai",
+      "url": "https://surmai.app/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.surmai.app"
+    },
+    {
+      "name": "Chhoto URL",
+      "url": "https://chhoto.link"
+    },
+    {
+      "name": "clink",
+      "url": "https://git.crueter.xyz/crueter/clink"
+    },
+    {
+      "name": "Demo",
+      "url": "https://short.crueter.xyz"
+    },
+    {
+      "name": "Flink",
+      "url": "https://gitlab.com/rtraceio/web/flink"
+    },
+    {
+      "name": "Demo",
+      "url": "https://flink.is"
+    },
+    {
+      "name": "Kutt",
+      "url": "https://kutt.to"
+    },
+    {
+      "name": "rs-short",
+      "url": "https://git.42l.fr/42l/rs-short"
+    },
+    {
+      "name": "Demo",
+      "url": "https://s.42l.fr/"
+    },
+    {
+      "name": "Shlink",
+      "url": "https://shlink.io"
+    },
+    {
+      "name": "Clients",
+      "url": "https://shlink.io/apps"
+    },
+    {
+      "name": "Demo",
+      "url": "https://u.azlux.fr"
+    },
+    {
+      "name": "YOURLS",
+      "url": "https://yourls.org/"
+    },
+    {
+      "name": "Frigate",
+      "url": "https://frigate.video/"
+    },
+    {
+      "name": "Secluso",
+      "url": "https://secluso.com"
+    },
+    {
+      "name": "SentryShot",
+      "url": "https://codeberg.org/SentryShot/sentryshot"
+    },
+    {
+      "name": "Viseron",
+      "url": "https://viseron.netlify.app/"
+    },
+    {
+      "name": "Zoneminder",
+      "url": "https://www.zoneminder.com/"
+    },
+    {
+      "name": "Algernon",
+      "url": "https://algernon.roboticoverlords.org/"
+    },
+    {
+      "name": "Apache HTTP Server",
+      "url": "https://httpd.apache.org/"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://svn.apache.org/repos/asf/httpd/httpd/trunk/"
+    },
+    {
+      "name": "BunkerWeb",
+      "url": "https://www.bunkerweb.io"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.bunkerweb.io"
+    },
+    {
+      "name": "Clients",
+      "url": "https://docs.bunkerweb.io/latest/plugins/"
+    },
+    {
+      "name": "Caddy",
+      "url": "https://caddyserver.com/"
+    },
+    {
+      "name": "Ferron",
+      "url": "https://ferron.sh/"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://git.haproxy.org/?p=haproxy.git;a=tree"
+    },
+    {
+      "name": "Lighttpd",
+      "url": "https://www.lighttpd.net/"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://git.lighttpd.net/lighttpd/lighttpd1.4"
+    },
+    {
+      "name": "Nginx Proxy Manager",
+      "url": "https://nginxproxymanager.com/"
+    },
+    {
+      "name": "NGINX",
+      "url": "https://nginx.org/en/"
+    },
+    {
+      "name": "Pangolin",
+      "url": "https://digpangolin.com/"
+    },
+    {
+      "name": "Pomerium",
+      "url": "https://www.pomerium.io"
+    },
+    {
+      "name": "SafeLine",
+      "url": "https://waf.chaitin.com/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.waf.chaitin.com/"
+    },
+    {
+      "name": "Static Web Server",
+      "url": "https://static-web-server.net/"
+    },
+    {
+      "name": "Traefik",
+      "url": "https://traefik.io/"
+    },
+    {
+      "name": "UUSEC WAF",
+      "url": "https://waf.uusec.com/"
+    },
+    {
+      "name": "Vinyl Cache",
+      "url": "https://vinyl-cache.org/"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://code.vinyl-cache.org/vinyl-cache/vinyl-cache"
+    },
+    {
+      "name": "Zoraxy",
+      "url": "https://zoraxy.aroz.org/"
+    },
+    {
+      "name": "Wikimatrix",
+      "url": "https://www.wikimatrix.org/"
+    },
+    {
+      "name": "AmuseWiki",
+      "url": "https://amusewiki.org/"
+    },
+    {
+      "name": "BookStack",
+      "url": "https://www.bookstackapp.com/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://www.bookstackapp.com/#demo"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://codeberg.org/bookstack/bookstack"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.django-wiki.org/"
+    },
+    {
+      "name": "docmost Community Edition",
+      "url": "https://docmost.com/"
+    },
+    {
+      "name": "Documize",
+      "url": "https://documize.com"
+    },
+    {
+      "name": "Dokuwiki",
+      "url": "https://www.dokuwiki.org/DokuWiki"
+    },
+    {
+      "name": "Feather Wiki",
+      "url": "https://feather.wiki"
+    },
+    {
+      "name": "Demo",
+      "url": "https://feather.wiki/?page=gallery#wikis"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://codeberg.org/Alamantus/FeatherWiki"
+    },
+    {
+      "name": "Clients",
+      "url": "https://feather.wiki/?page=gallery#extensions"
+    },
+    {
+      "name": "Demo",
+      "url": "https://demo.leafwiki.com"
+    },
+    {
+      "name": "Mediawiki",
+      "url": "https://www.mediawiki.org/wiki/MediaWiki"
+    },
+    {
+      "name": "Mycorrhiza Wiki",
+      "url": "https://mycorrhiza.wiki/"
+    },
+    {
+      "name": "Otter Wiki",
+      "url": "https://otterwiki.com/"
+    },
+    {
+      "name": "PmWiki",
+      "url": "https://www.pmwiki.org"
+    },
+    {
+      "name": "Raneto",
+      "url": "https://raneto.com/"
+    },
+    {
+      "name": "TiddlyWiki",
+      "url": "https://tiddlywiki.com/"
+    },
+    {
+      "name": "Tiki",
+      "url": "https://tiki.org/HomePage"
+    },
+    {
+      "name": "Demo",
+      "url": "https://tiki.org/Try-Tiki"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://gitlab.com/tikiwiki/tiki"
+    },
+    {
+      "name": "W",
+      "url": "https://w.club1.fr"
+    },
+    {
+      "name": "WackoWiki",
+      "url": "https://wackowiki.org/"
+    },
+    {
+      "name": "Wiki-Go",
+      "url": "https://leomoon.com/downloads/web-apps/wiki-go/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://wikigo.leomoon.com"
+    },
+    {
+      "name": "Wiki.js",
+      "url": "https://js.wiki/"
+    },
+    {
+      "name": "Demo",
+      "url": "https://docs.requarks.io"
+    },
+    {
+      "name": "WikiDocs",
+      "url": "https://www.wikidocs.app/"
+    },
+    {
+      "name": "WiKiss",
+      "url": "https://wikiss.tuxfamily.org/"
+    },
+    {
+      "name": "Source Code",
+      "url": "https://svnweb.tuxfamily.org/listing.php?repname=wikiss/svn&path=%2F&sc=0"
+    },
+    {
+      "name": "XWiki",
+      "url": "https://www.xwiki.org"
+    },
+    {
+      "name": "Demo",
+      "url": "https://www.xwikiplayground.org/xwiki/bin/view/Main/"
+    },
+    {
+      "name": "Zim",
+      "url": "https://zim-wiki.org/"
+    }
+  ]
+}

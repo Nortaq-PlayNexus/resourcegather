@@ -1,0 +1,3260 @@
+{
+  "note": "Replace [FILL] .onion/.i2p addresses with current ones. network: clear|tor|i2p",
+  "targets": [
+    {
+      "name": "Pastebin",
+      "network": "clear",
+      "search_url": "https://pastebin.com/search?q={q}"
+    },
+    {
+      "name": "GitHub Gist",
+      "network": "clear",
+      "search_url": "https://gist.github.com/search?q={q}"
+    },
+    {
+      "name": "Pastes.io",
+      "network": "clear",
+      "search_url": "https://pastes.io/?search={q}"
+    },
+    {
+      "name": "ControlC",
+      "network": "clear",
+      "search_url": "https://controlc.com/?q={q}"
+    },
+    {
+      "name": "IntelligenceX",
+      "network": "clear",
+      "search_url": "https://intelx.io/?s={q}"
+    },
+    {
+      "name": "OSINTLeak",
+      "network": "clear",
+      "search_url": "https://osintleak.com/?s={q}"
+    },
+    {
+      "name": "DeHashed",
+      "network": "clear",
+      "search_url": "https://dehashed.com/search?query={q}"
+    },
+    {
+      "name": "Library of Leaks",
+      "network": "clear",
+      "search_url": "https://tools.osintnewsletter.com/osint-tools/library-of-leaks?q={q}"
+    },
+    {
+      "name": "TGStat",
+      "network": "clear",
+      "search_url": "https://tgstat.com/search?q={q}"
+    },
+    {
+      "name": "TelegramChannels",
+      "network": "clear",
+      "search_url": "https://telegramchannels.me/search?q={q}"
+    },
+    {
+      "name": "Ahmia",
+      "network": "tor",
+      "search_url": "https://ahmia.fi/search/?q={q}"
+    },
+    {
+      "name": "Legwork (I2P)",
+      "network": "i2p",
+      "search_url": "http://legwork.i2p/?q={q}"
+    },
+    {
+      "name": "Bing",
+      "search_url": "https://www.bing.com/search?q={q}",
+      "network": "clear"
+    },
+    {
+      "name": "DuckDuckGo",
+      "search_url": "https://duckduckgo.com/?q={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Google",
+      "search_url": "https://www.google.com/search?q={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Yandex",
+      "search_url": "https://yandex.com/search/?text={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Baidu",
+      "search_url": "https://www.baidu.com/s?wd={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Mojeek",
+      "search_url": "https://www.mojeek.com/search?q={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Startpage",
+      "search_url": "https://www.startpage.com/sp/search?query={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Searx (clearnet)",
+      "search_url": "https://searx.be/search?q={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Brave Search",
+      "search_url": "https://search.brave.com/search?q={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Ecosia",
+      "search_url": "https://www.ecosia.org/search?q={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Qwant",
+      "search_url": "https://www.qwant.com/?q={q}",
+      "network": "clear"
+    },
+    {
+      "name": "OnionLand",
+      "search_url": "https://onionland.io/search?q={q}",
+      "network": "clear"
+    },
+    {
+      "name": "LeakIX",
+      "search_url": "https://leakix.net/search/?q={q}",
+      "network": "clear"
+    },
+    {
+      "name": "BreachDirectory",
+      "search_url": "https://breachdirectory.org/search?query={q}",
+      "network": "clear"
+    },
+    {
+      "name": "HaveIBeenPwned",
+      "search_url": "https://haveibeenpwned.com/account/{q}",
+      "network": "clear"
+    },
+    {
+      "name": "Shodan",
+      "search_url": "https://www.shodan.io/search?query={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Censys",
+      "search_url": "https://search.censys.io/search?q={q}",
+      "network": "clear"
+    },
+    {
+      "name": "ZoomEye",
+      "search_url": "https://www.zoomeye.org/searchResult?q={q}",
+      "network": "clear"
+    },
+    {
+      "name": "SecurityTrails",
+      "search_url": "https://securitytrails.com/app/domain/{q}",
+      "network": "clear"
+    },
+    {
+      "name": "VirusTotal",
+      "search_url": "https://www.virustotal.com/gui/search/{q}",
+      "network": "clear"
+    },
+    {
+      "name": "URLScan",
+      "search_url": "https://urlscan.io/search/#{q}",
+      "network": "clear"
+    },
+    {
+      "name": "AbuseIPDB",
+      "search_url": "https://www.abuseipdb.com/check/{q}",
+      "network": "clear"
+    },
+    {
+      "name": "Hybrid Analysis",
+      "search_url": "https://www.hybrid-analysis.com/search?query={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Pulsedive",
+      "search_url": "https://pulsedive.com/indicator/?i={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Hunter",
+      "search_url": "https://hunter.io/search/{q}",
+      "network": "clear"
+    },
+    {
+      "name": "PhoneBook",
+      "search_url": "https://phonebook.cz/domains?q={q}",
+      "network": "clear"
+    },
+    {
+      "name": "crt.sh",
+      "search_url": "https://crt.sh/?q={q}",
+      "network": "clear"
+    },
+    {
+      "name": "DNSDumpster",
+      "search_url": "https://dnsdumpster.com/?q={q}",
+      "network": "clear"
+    },
+    {
+      "name": "ViewDNS",
+      "search_url": "https://viewdns.info/iphistory/?domain={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Robtex",
+      "search_url": "https://www.robtex.com/ip/{q}",
+      "network": "clear"
+    },
+    {
+      "name": "BGP HE",
+      "search_url": "https://bgp.he.net/search?search%5Bsearch%5D={q}",
+      "network": "clear"
+    },
+    {
+      "name": "MXToolbox",
+      "search_url": "https://mxtoolbox.com/SuperTool.aspx?action=mx%3a{q}&run=toolpage",
+      "network": "clear"
+    },
+    {
+      "name": "OSINT Framework",
+      "search_url": "https://osintframework.com/?q={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Bellingcat",
+      "search_url": "https://www.bellingcat.com/?s={q}",
+      "network": "clear"
+    },
+    {
+      "name": "That's Them",
+      "search_url": "https://thatsthem.com/search/name/{q}",
+      "network": "clear"
+    },
+    {
+      "name": "IP-API",
+      "search_url": "https://ip-api.com/{q}",
+      "network": "clear"
+    },
+    {
+      "name": "DomainTools",
+      "search_url": "https://whois.domaintools.com/{q}",
+      "network": "clear"
+    },
+    {
+      "name": "Archive.org",
+      "search_url": "https://web.archive.org/web/*/{q}",
+      "network": "clear"
+    },
+    {
+      "name": "Wayback",
+      "search_url": "https://web.archive.org/cdx/search/cdx?url={q}",
+      "network": "clear"
+    },
+    {
+      "name": "GitHub Code",
+      "search_url": "https://github.com/search?q={q}&type=code",
+      "network": "clear"
+    },
+    {
+      "name": "GitLab",
+      "search_url": "https://gitlab.com/search?search={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Reddit",
+      "search_url": "https://www.reddit.com/search/?q={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Twitter / X",
+      "search_url": "https://twitter.com/search?q={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Rentry",
+      "search_url": "https://rentry.co/search?q={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Tineye",
+      "search_url": "https://tineye.com/search?url={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Yandex Images",
+      "search_url": "https://yandex.com/images/search?text={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Google Images",
+      "search_url": "https://www.google.com/searchbyimage?image_url={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Shodan Maps",
+      "search_url": "https://maps.shodan.io/?query={q}",
+      "network": "clear"
+    },
+    {
+      "name": "BinaryEdge",
+      "search_url": "https://app.binaryedge.io/search?query={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Censys Hosts",
+      "search_url": "https://search.censys.io/hosts?q={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Hudson Rock Search",
+      "search_url": "https://hudsonrock.com/search?email={q}",
+      "network": "clear"
+    },
+    {
+      "name": "BGP HE IP",
+      "search_url": "https://bgp.he.net/ip/{q}",
+      "network": "clear"
+    },
+    {
+      "name": "Who.is Lookup",
+      "search_url": "https://who.is/whois/{q}",
+      "network": "clear"
+    },
+    {
+      "name": "FullHunt Domain",
+      "search_url": "https://fullhunt.io/domain/{q}",
+      "network": "clear"
+    },
+    {
+      "name": "URLVoid Scan",
+      "search_url": "https://www.urlvoid.com/scan/{q}",
+      "network": "clear"
+    },
+    {
+      "name": "MultiRBL Lookup",
+      "search_url": "https://multirbl.valli.org/lookup/{q}",
+      "network": "clear"
+    },
+    {
+      "name": "Intezer Search",
+      "search_url": "https://analyze.intezer.com/analyses?q={q}",
+      "network": "clear"
+    },
+    {
+      "name": "FileScan Search",
+      "search_url": "https://www.filescan.io/search?query={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Pulsedive Search",
+      "search_url": "https://pulsedive.com/search?q={q}",
+      "network": "clear"
+    },
+    {
+      "name": "Marginalia",
+      "search_url": "https://search.marginalia.nu",
+      "network": "clear"
+    },
+    {
+      "name": "Yippy",
+      "search_url": "https://yippy.com",
+      "network": "clear"
+    },
+    {
+      "name": "Peekier",
+      "search_url": "https://peekier.com",
+      "network": "clear"
+    },
+    {
+      "name": "Search Encrypt",
+      "search_url": "https://www.searchencrypt.com",
+      "network": "clear"
+    },
+    {
+      "name": "Oscobo",
+      "search_url": "https://www.oscobo.co.uk",
+      "network": "clear"
+    },
+    {
+      "name": "MetaGer",
+      "search_url": "https://metager.org",
+      "network": "clear"
+    },
+    {
+      "name": "Wiby",
+      "search_url": "https://wiby.me",
+      "network": "clear"
+    },
+    {
+      "name": "Gibiru",
+      "search_url": "https://gibiru.com",
+      "network": "clear"
+    },
+    {
+      "name": "Infinity Search",
+      "search_url": "https://infinitysearch.io",
+      "network": "clear"
+    },
+    {
+      "name": "eTools",
+      "search_url": "https://etools.ch",
+      "network": "clear"
+    },
+    {
+      "name": "Dogpile",
+      "search_url": "https://dogpile.com",
+      "network": "clear"
+    },
+    {
+      "name": "Ask",
+      "search_url": "https://ask.com",
+      "network": "clear"
+    },
+    {
+      "name": "AOL Search",
+      "search_url": "https://search.aol.com",
+      "network": "clear"
+    },
+    {
+      "name": "Naver",
+      "search_url": "https://search.naver.com",
+      "network": "clear"
+    },
+    {
+      "name": "Daum",
+      "search_url": "https://search.daum.net",
+      "network": "clear"
+    },
+    {
+      "name": "Sogou",
+      "search_url": "https://www.sogou.com",
+      "network": "clear"
+    },
+    {
+      "name": "So.com",
+      "search_url": "https://www.so.com",
+      "network": "clear"
+    },
+    {
+      "name": "Seznam",
+      "search_url": "https://search.seznam.cz",
+      "network": "clear"
+    },
+    {
+      "name": "Mojeek",
+      "search_url": "https://www.mojeek.com",
+      "network": "clear"
+    },
+    {
+      "name": "Startpage",
+      "search_url": "https://www.startpage.com",
+      "network": "clear"
+    },
+    {
+      "name": "Brave Search",
+      "search_url": "https://search.brave.com",
+      "network": "clear"
+    },
+    {
+      "name": "Qwant",
+      "search_url": "https://www.qwant.com",
+      "network": "clear"
+    },
+    {
+      "name": "Ecosia",
+      "search_url": "https://www.ecosia.org",
+      "network": "clear"
+    },
+    {
+      "name": "Searx.be",
+      "search_url": "https://searx.be",
+      "network": "clear"
+    },
+    {
+      "name": "Ahmia",
+      "search_url": "https://ahmia.fi",
+      "network": "clear"
+    },
+    {
+      "name": "OnionLand",
+      "search_url": "https://onionland.io",
+      "network": "clear"
+    },
+    {
+      "name": "Shodan",
+      "search_url": "https://www.shodan.io",
+      "network": "clear"
+    },
+    {
+      "name": "Censys",
+      "search_url": "https://search.censys.io",
+      "network": "clear"
+    },
+    {
+      "name": "GreyNoise",
+      "search_url": "https://greynoise.io",
+      "network": "clear"
+    },
+    {
+      "name": "FOFA",
+      "search_url": "https://fofa.info",
+      "network": "clear"
+    },
+    {
+      "name": "ZoomEye",
+      "search_url": "https://www.zoomeye.org",
+      "network": "clear"
+    },
+    {
+      "name": "ONYPHE",
+      "search_url": "https://www.onyphe.io",
+      "network": "clear"
+    },
+    {
+      "name": "SecurityTrails",
+      "search_url": "https://securitytrails.com",
+      "network": "clear"
+    },
+    {
+      "name": "VirusTotal",
+      "search_url": "https://www.virustotal.com",
+      "network": "clear"
+    },
+    {
+      "name": "URLScan",
+      "search_url": "https://urlscan.io",
+      "network": "clear"
+    },
+    {
+      "name": "Intelligence X",
+      "search_url": "https://intelx.io",
+      "network": "clear"
+    },
+    {
+      "name": "DeHashed",
+      "search_url": "https://dehashed.com",
+      "network": "clear"
+    },
+    {
+      "name": "LeakIX",
+      "search_url": "https://leakix.net",
+      "network": "clear"
+    },
+    {
+      "name": "HaveIBeenPwned",
+      "search_url": "https://haveibeenpwned.com",
+      "network": "clear"
+    },
+    {
+      "name": "Hudson Rock",
+      "search_url": "https://hudsonrock.com",
+      "network": "clear"
+    },
+    {
+      "name": "Edit links",
+      "search_url": "https://www.wikidata.org/wiki/Special:EntityPage/Q1750631#sitelinks-wikipedia",
+      "network": "clear"
+    },
+    {
+      "name": "Parsoid",
+      "search_url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "network": "clear"
+    },
+    {
+      "name": "creativecommons.org",
+      "search_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+      "network": "clear"
+    },
+    {
+      "name": "www.wikidata.org",
+      "search_url": "https://www.wikidata.org/wiki/Special:EntityPage/Q1750631",
+      "network": "clear"
+    },
+    {
+      "name": "searchengineland.com",
+      "search_url": "https://searchengineland.com/goodbye-froogle-hello-google-product-search-11001",
+      "network": "clear"
+    },
+    {
+      "name": "www.softpedia.com",
+      "search_url": "https://www.softpedia.com/get/Internet/Servers/Database-Utils/Locate32.shtml|title=Download",
+      "network": "clear"
+    },
+    {
+      "name": "www.lookeen.com",
+      "search_url": "https://www.lookeen.com/",
+      "network": "clear"
+    },
+    {
+      "name": "www.lesbonscomptes.com",
+      "search_url": "https://www.lesbonscomptes.com/recoll/",
+      "network": "clear"
+    },
+    {
+      "name": "archive.today",
+      "search_url": "https://archive.today/20120714094437/http://svn.gnome.org/viewvc/tracker/trunk/COPYING?view=markup",
+      "network": "clear"
+    },
+    {
+      "name": "www.x1.com",
+      "search_url": "https://www.x1.com/products/x1-search/",
+      "network": "clear"
+    },
+    {
+      "name": "www.basnews.com",
+      "search_url": "http://www.basnews.com/en/News/Details/Kurdish-Swede-creates-first-Kurdish-search-engine/9007",
+      "network": "clear"
+    },
+    {
+      "name": "web.archive.org",
+      "search_url": "https://web.archive.org/web/20140102193541/http://www.basnews.com/en/News/Details/Kurdish-Swede-creates-first-Kurdish-search-engine/9007",
+      "network": "clear"
+    },
+    {
+      "name": "www.sbwire.com",
+      "search_url": "http://www.sbwire.com/press-releases/egerin/sbwire-421932.htm",
+      "network": "clear"
+    },
+    {
+      "name": "www.vice.com",
+      "search_url": "https://www.vice.com/en/article/meet-the-kurdish-entrepreneur-making-a-google-for-the-kurds/",
+      "network": "clear"
+    },
+    {
+      "name": "web.archive.org",
+      "search_url": "https://web.archive.org/web/20150516141232/http://www.autonomy.com/products/universal-search",
+      "network": "clear"
+    },
+    {
+      "name": "www.softpedia.com",
+      "search_url": "https://www.softpedia.com/get/Internet/Servers/Database-Utils/Locate32.shtml",
+      "network": "clear"
+    },
+    {
+      "name": "web.archive.org",
+      "search_url": "https://web.archive.org/web/20190806185027/http://www.semantic-knowledge.com/download.htm",
+      "network": "clear"
+    },
+    {
+      "name": "blog.mojeek.com",
+      "search_url": "https://blog.mojeek.com/2023/05/farewell-gigablast.html",
+      "network": "clear"
+    },
+    {
+      "name": "www.sfchronicle.com",
+      "search_url": "https://www.sfchronicle.com/tech/article/ask-com-jeeves-internet-22238219.php",
+      "network": "clear"
+    },
+    {
+      "name": "asmarterplanet.com",
+      "search_url": "http://asmarterplanet.com/blog/2015/03/better-way-tap-big-data-gusher.html",
+      "network": "clear"
+    },
+    {
+      "name": "news.mrw.it",
+      "search_url": "https://news.mrw.it/dominio-volunia-it-vendita_15916.html",
+      "network": "clear"
+    },
+    {
+      "name": "wikimediafoundation.org",
+      "search_url": "https://wikimediafoundation.org/",
+      "network": "clear"
+    },
+    {
+      "name": "www.mediawiki.org",
+      "search_url": "https://www.mediawiki.org/",
+      "network": "clear"
+    },
+    {
+      "name": "Edit links",
+      "search_url": "https://www.wikidata.org/wiki/Special:EntityPage/Q4182287#sitelinks-wikipedia",
+      "network": "clear"
+    },
+    {
+      "name": "en.wikibooks.org",
+      "search_url": "https://en.wikibooks.org/wiki/How_To_Search",
+      "network": "clear"
+    },
+    {
+      "name": "en.wikiversity.org",
+      "search_url": "https://en.wikiversity.org/wiki/Category:Search_engines",
+      "network": "clear"
+    },
+    {
+      "name": "www.wikidata.org",
+      "search_url": "https://www.wikidata.org/wiki/Special:EntityPage/Q4182287",
+      "network": "clear"
+    },
+    {
+      "name": "gs.statcounter.com",
+      "search_url": "https://gs.statcounter.com/search-engine-market-share",
+      "network": "clear"
+    },
+    {
+      "name": "www.theatlantic.com",
+      "search_url": "https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/",
+      "network": "clear"
+    },
+    {
+      "name": "web.archive.org",
+      "search_url": "https://web.archive.org/web/20120822132632/http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/4/",
+      "network": "clear"
+    },
+    {
+      "name": "www.searchenginehistory.com",
+      "search_url": "http://www.searchenginehistory.com/",
+      "network": "clear"
+    },
+    {
+      "name": "web.archive.org",
+      "search_url": "https://web.archive.org/web/20220122194212/https://webaccess.psu.edu/?cosign-scripts.libraries.psu.edu&amp;https%3A%2F%2Fscripts.libraries.psu.edu%2Fscripts%2Fezproxyauth.php%3Furl=ezp.2aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL3N0YW1wL3N0YW1wLmpzcD90cD0mYXJudW1iZXI9ODUwOTU1MA--",
+      "network": "clear"
+    },
+    {
+      "name": "www.rfc-editor.org",
+      "search_url": "https://www.rfc-editor.org/rfc/rfc812",
+      "network": "clear"
+    },
+    {
+      "name": "doi.org",
+      "search_url": "https://doi.org/10.17487%2FRFC0812",
+      "network": "clear"
+    },
+    {
+      "name": "datatracker.ietf.org",
+      "search_url": "https://datatracker.ietf.org/doc/html/rfc812",
+      "network": "clear"
+    },
+    {
+      "name": "www.rfc-editor.org",
+      "search_url": "https://www.rfc-editor.org/rfc/rfc954",
+      "network": "clear"
+    },
+    {
+      "name": "www.rfc-editor.org",
+      "search_url": "https://www.rfc-editor.org/rfc/rfc3912",
+      "network": "clear"
+    },
+    {
+      "name": "www.cnri.reston.va.us",
+      "search_url": "http://www.cnri.reston.va.us/home/koe/iwooos-full.html",
+      "network": "clear"
+    },
+    {
+      "name": "home.mcom.com",
+      "search_url": "http://home.mcom.com/home/whatsnew/whats_new_0294.html",
+      "network": "clear"
+    },
+    {
+      "name": "web.archive.org",
+      "search_url": "https://web.archive.org/web/20090413030108/http://www.internethistory.leidenuniv.nl/index.php3?c=7",
+      "network": "clear"
+    },
+    {
+      "name": "www.pcmag.com",
+      "search_url": "https://www.pcmag.com/encyclopedia/term/archie",
+      "network": "clear"
+    },
+    {
+      "name": "daily.jstor.org",
+      "search_url": "https://daily.jstor.org/alan-emtage-first-internet-search-engine/",
+      "network": "clear"
+    },
+    {
+      "name": "web.archive.org",
+      "search_url": "https://web.archive.org/web/20200923065914/http://www.loopnewsbarbados.com/content/alan-emtage-barbadian-you-should-know",
+      "network": "clear"
+    },
+    {
+      "name": "www.huffingtonpost.co.uk",
+      "search_url": "https://www.huffingtonpost.co.uk/entry/alan-emtage-search-engine_n_2994090",
+      "network": "clear"
+    },
+    {
+      "name": "web.archive.org",
+      "search_url": "https://web.archive.org/web/20010620073530/http://archive.ncsa.uiuc.edu/SDG/Software/Mosaic/Docs/old-whats-new/whats-new-1293.html",
+      "network": "clear"
+    },
+    {
+      "name": "web.archive.org",
+      "search_url": "https://web.archive.org/web/19961128070718/http://www.yahoo.com/search.html",
+      "network": "clear"
+    },
+    {
+      "name": "www.forbes.com",
+      "search_url": "https://www.forbes.com/forbes/2009/1005/technology-baidu-robin-li-man-whos-beating-google.html",
+      "network": "clear"
+    },
+    {
+      "name": "doi.org",
+      "search_url": "https://doi.org/10.1109%2F4236.707687",
+      "network": "clear"
+    },
+    {
+      "name": "www.rankdex.com",
+      "search_url": "http://www.rankdex.com/about.html",
+      "network": "clear"
+    },
+    {
+      "name": "fourweekmba.com",
+      "search_url": "https://fourweekmba.com/baidu-vs-google/",
+      "network": "clear"
+    },
+    {
+      "name": "www.forbes.com",
+      "search_url": "https://www.forbes.com/sites/jamesaltucher/2011/03/18/10-unusual-things-about-google-also-the-worst-vc-decision-i-ever-made/",
+      "network": "clear"
+    },
+    {
+      "name": "web.archive.org",
+      "search_url": "https://web.archive.org/web/20151015185034/http://www.google.com/patents/US6285999",
+      "network": "clear"
+    },
+    {
+      "name": "www.latimes.com",
+      "search_url": "https://www.latimes.com/archives/la-xpm-1996-04-01-fi-53780-story.html",
+      "network": "clear"
+    },
+    {
+      "name": "slate.com",
+      "search_url": "https://slate.com/business/2013/10/googles-big-break-how-bill-gross-goto-com-inspired-the-adwords-business-model.html",
+      "network": "clear"
+    },
+    {
+      "name": "search.worldcat.org",
+      "search_url": "https://search.worldcat.org/issn/1091-2339",
+      "network": "clear"
+    },
+    {
+      "name": "thehistoryoftheweb.com",
+      "search_url": "https://thehistoryoftheweb.com/goto-forgotten-search-engine/",
+      "network": "clear"
+    },
+    {
+      "name": "www.escholarship.org",
+      "search_url": "http://www.escholarship.org/uc/item/0h17g08v",
+      "network": "clear"
+    },
+    {
+      "name": "doi.org",
+      "search_url": "https://doi.org/10.1016%2FS0167-7187%2801%2900065-0",
+      "network": "clear"
+    },
+    {
+      "name": "search.worldcat.org",
+      "search_url": "https://search.worldcat.org/issn/0167-7187",
+      "network": "clear"
+    },
+    {
+      "name": "web.archive.org",
+      "search_url": "https://web.archive.org/web/20121101210037/https://www.google.com/about/company/history/",
+      "network": "clear"
+    },
+    {
+      "name": "search.brave.com",
+      "search_url": "https://search.brave.com/help/brave-search-crawler",
+      "network": "clear"
+    },
+    {
+      "name": "www.nytimes.com",
+      "search_url": "https://www.nytimes.com/2023/02/16/technology/bing-chatbot-search-engine.html",
+      "network": "clear"
+    },
+    {
+      "name": "www.techtarget.com",
+      "search_url": "https://www.techtarget.com/whatis/definition/search-engine",
+      "network": "clear"
+    },
+    {
+      "name": "googlesystem.blogspot.com",
+      "search_url": "http://googlesystem.blogspot.com/2007/08/easy-way-to-find-recent-web-pages.html",
+      "network": "clear"
+    },
+    {
+      "name": "www.searchenginejournal.com",
+      "search_url": "https://www.searchenginejournal.com/local-seo/what-is-local-seo-why-local-search-is-important/",
+      "network": "clear"
+    },
+    {
+      "name": "www.similarweb.com",
+      "search_url": "https://www.similarweb.com/engines/",
+      "network": "clear"
+    },
+    {
+      "name": "www.npr.org",
+      "search_url": "https://www.npr.org/2024/05/02/1248152695/google-doj-monopoly-trial-antitrust-closing-arguments",
+      "network": "clear"
+    },
+    {
+      "name": "gs.statcounter.com",
+      "search_url": "https://gs.statcounter.com/search-engine-market-share/all/russian-federation",
+      "network": "clear"
+    },
+    {
+      "name": "www.reuters.com",
+      "search_url": "https://www.reuters.com",
+      "network": "clear"
+    },
+    {
+      "name": "gs.statcounter.com",
+      "search_url": "https://gs.statcounter.com/search-engine-market-share/all/china",
+      "network": "clear"
+    },
+    {
+      "name": "gs.statcounter.com",
+      "search_url": "https://gs.statcounter.com/search-engine-market-share/all/japan",
+      "network": "clear"
+    },
+    {
+      "name": "www.koreaherald.com",
+      "search_url": "https://www.koreaherald.com/article/3631884",
+      "network": "clear"
+    },
+    {
+      "name": "www.koreaherald.com",
+      "search_url": "https://www.koreaherald.com/article/10627173",
+      "network": "clear"
+    },
+    {
+      "name": "www.koreatimes.co.kr",
+      "search_url": "https://www.koreatimes.co.kr/business/tech-science/20260416/naver-remains-dominant-player-in-koreas-search-market",
+      "network": "clear"
+    },
+    {
+      "name": "www.koreatimes.co.kr",
+      "search_url": "https://www.koreatimes.co.kr/business/tech-science/20260811/google-surpasses-naver-in-monthly-active-users-in-korea-for-1st-time",
+      "network": "clear"
+    },
+    {
+      "name": "gs.statcounter.com",
+      "search_url": "https://gs.statcounter.com/search-engine-market-share/all/taiwan",
+      "network": "clear"
+    },
+    {
+      "name": "doi.org",
+      "search_url": "https://doi.org/10.1016%2FS0306-4573%2803%2900063-3",
+      "network": "clear"
+    },
+    {
+      "name": "api.semanticscholar.org",
+      "search_url": "https://api.semanticscholar.org/CorpusID:18977861",
+      "network": "clear"
+    },
+    {
+      "name": "cyber.law.harvard.edu",
+      "search_url": "http://cyber.law.harvard.edu/filtering/china/google-replacements/",
+      "network": "clear"
+    },
+    {
+      "name": "citeseerx.ist.psu.edu",
+      "search_url": "https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.24.8051",
+      "network": "clear"
+    },
+    {
+      "name": "doi.org",
+      "search_url": "https://doi.org/10.1080%2F01972240050133634",
+      "network": "clear"
+    },
+    {
+      "name": "api.semanticscholar.org",
+      "search_url": "https://api.semanticscholar.org/CorpusID:2111039",
+      "network": "clear"
+    },
+    {
+      "name": "archive.org",
+      "search_url": "https://archive.org/details/googlecultureofs0000hill",
+      "network": "clear"
+    },
+    {
+      "name": "ui.adsabs.harvard.edu",
+      "search_url": "https://ui.adsabs.harvard.edu/abs/2008wsis.book..151R",
+      "network": "clear"
+    },
+    {
+      "name": "doi.org",
+      "search_url": "https://doi.org/10.1007%2F978-3-540-75829-7_10",
+      "network": "clear"
+    },
+    {
+      "name": "api.semanticscholar.org",
+      "search_url": "https://api.semanticscholar.org/CorpusID:84831583",
+      "network": "clear"
+    },
+    {
+      "name": "www.nytimes.com",
+      "search_url": "https://www.nytimes.com/2017/12/29/climate/google-search-climate-change.html",
+      "network": "clear"
+    },
+    {
+      "name": "doi.org",
+      "search_url": "https://doi.org/10.5210%2Ffm.v20i7.5597",
+      "network": "clear"
+    },
+    {
+      "name": "search.worldcat.org",
+      "search_url": "https://search.worldcat.org/oclc/682892628",
+      "network": "clear"
+    },
+    {
+      "name": "doi.org",
+      "search_url": "https://doi.org/10.1109%2FMIC.2014.71",
+      "network": "clear"
+    },
+    {
+      "name": "ui.adsabs.harvard.edu",
+      "search_url": "https://ui.adsabs.harvard.edu/abs/2014IIC....18d..79O",
+      "network": "clear"
+    },
+    {
+      "name": "search.worldcat.org",
+      "search_url": "https://search.worldcat.org/issn/1089-7801",
+      "network": "clear"
+    },
+    {
+      "name": "api.semanticscholar.org",
+      "search_url": "https://api.semanticscholar.org/CorpusID:37860225",
+      "network": "clear"
+    },
+    {
+      "name": "policyreview.info",
+      "search_url": "https://policyreview.info/node/1426",
+      "network": "clear"
+    },
+    {
+      "name": "doi.org",
+      "search_url": "https://doi.org/10.14763%2F2019.4.1426",
+      "network": "clear"
+    },
+    {
+      "name": "hdl.handle.net",
+      "search_url": "https://hdl.handle.net/10419%2F214088",
+      "network": "clear"
+    },
+    {
+      "name": "search.worldcat.org",
+      "search_url": "https://search.worldcat.org/issn/2197-6775",
+      "network": "clear"
+    },
+    {
+      "name": "api.semanticscholar.org",
+      "search_url": "https://api.semanticscholar.org/CorpusID:211483210",
+      "network": "clear"
+    },
+    {
+      "name": "doi.org",
+      "search_url": "https://doi.org/10.1080%2F21670811.2017.1338145",
+      "network": "clear"
+    },
+    {
+      "name": "search.worldcat.org",
+      "search_url": "https://search.worldcat.org/issn/2167-0811",
+      "network": "clear"
+    },
+    {
+      "name": "api.semanticscholar.org",
+      "search_url": "https://api.semanticscholar.org/CorpusID:168906316",
+      "network": "clear"
+    },
+    {
+      "name": "linkinghub.elsevier.com",
+      "search_url": "https://linkinghub.elsevier.com/retrieve/pii/S0747563218303650",
+      "network": "clear"
+    },
+    {
+      "name": "doi.org",
+      "search_url": "https://doi.org/10.1016%2Fj.chb.2018.07.043",
+      "network": "clear"
+    },
+    {
+      "name": "api.semanticscholar.org",
+      "search_url": "https://api.semanticscholar.org/CorpusID:53774351",
+      "network": "clear"
+    },
+    {
+      "name": "web.archive.org",
+      "search_url": "https://web.archive.org/web/20130712023215/http://news.msn.com/science-technology/new-islam-approved-search-engine-for-muslims",
+      "network": "clear"
+    },
+    {
+      "name": "web.archive.org",
+      "search_url": "https://web.archive.org/web/20190207015631/http://www.jewogle.com/faq/",
+      "network": "clear"
+    },
+    {
+      "name": "allchristiannews.com",
+      "search_url": "http://allchristiannews.com/halalgoogling-muslims-get-their-own-sin-free-google-should-christians-have-christian-google/",
+      "network": "clear"
+    },
+    {
+      "name": "web.archive.org",
+      "search_url": "https://web.archive.org/web/20140913102516/http://allchristiannews.com/halalgoogling-muslims-get-their-own-sin-free-google-should-christians-have-christian-google/",
+      "network": "clear"
+    },
+    {
+      "name": "www.seroundtable.com",
+      "search_url": "https://www.seroundtable.com/search-engine-submission-google-15906.html",
+      "network": "clear"
+    },
+    {
+      "name": "dbpubs.stanford.edu:8090",
+      "search_url": "http://dbpubs.stanford.edu:8090/pub/2008-2",
+      "network": "clear"
+    },
+    {
+      "name": "www.wiley.com",
+      "search_url": "http://www.wiley.com/legacy/compbooks/sonnenreich/history.html",
+      "network": "clear"
+    },
+    {
+      "name": "web.archive.org",
+      "search_url": "https://web.archive.org/web/20140605052335/http://www.pccua.edu/kholland/major_search_engines.htm",
+      "network": "clear"
+    },
+    {
+      "name": "misq.org",
+      "search_url": "https://misq.org/theoryon-a-design-framework-and-system-for-unlocking-behavioral-knowledge-through-ontology-learning.html",
+      "network": "clear"
+    },
+    {
+      "name": "doi.org",
+      "search_url": "https://doi.org/10.25300%2FMISQ%2F2020%2F15323",
+      "network": "clear"
+    },
+    {
+      "name": "api.semanticscholar.org",
+      "search_url": "https://api.semanticscholar.org/CorpusID:219401379",
+      "network": "clear"
+    },
+    {
+      "name": "doi.org",
+      "search_url": "https://doi.org/10.1038%2F21987",
+      "network": "clear"
+    },
+    {
+      "name": "ui.adsabs.harvard.edu",
+      "search_url": "https://ui.adsabs.harvard.edu/abs/1999Natur.400..107L",
+      "network": "clear"
+    },
+    {
+      "name": "pubmed.ncbi.nlm.nih.gov",
+      "search_url": "https://pubmed.ncbi.nlm.nih.gov/10428673",
+      "network": "clear"
+    },
+    {
+      "name": "api.semanticscholar.org",
+      "search_url": "https://api.semanticscholar.org/CorpusID:4347646",
+      "network": "clear"
+    },
+    {
+      "name": "www.cs.uic.edu",
+      "search_url": "http://www.cs.uic.edu/~liub/WebMiningBook.html",
+      "network": "clear"
+    },
+    {
+      "name": "ui.adsabs.harvard.edu",
+      "search_url": "https://ui.adsabs.harvard.edu/abs/2005SciAm.292b..66M",
+      "network": "clear"
+    },
+    {
+      "name": "doi.org",
+      "search_url": "https://doi.org/10.1038%2Fscientificamerican0205-66",
+      "network": "clear"
+    },
+    {
+      "name": "doi.org",
+      "search_url": "https://doi.org/10.1002%2F1097-4571%282000%2951%3A10%3C949%3A%3AAID-ASI70%3E3.0.CO%3B2-5",
+      "network": "clear"
+    },
+    {
+      "name": "doi.org",
+      "search_url": "https://doi.org/10.1177%2F016555159802400509",
+      "network": "clear"
+    },
+    {
+      "name": "api.semanticscholar.org",
+      "search_url": "https://api.semanticscholar.org/CorpusID:34686531",
+      "network": "clear"
+    },
+    {
+      "name": "web.archive.org",
+      "search_url": "https://web.archive.org/web/20201005195805/http://www.ir.uwaterloo.ca/book/",
+      "network": "clear"
+    },
+    {
+      "name": "www.jstor.org",
+      "search_url": "https://www.jstor.org/stable/4116455",
+      "network": "clear"
+    },
+    {
+      "name": "en.wikiversity.org",
+      "search_url": "https://en.wikiversity.org/wiki/Search%20Engines",
+      "network": "clear"
+    },
+    {
+      "name": "www.wikidata.org",
+      "search_url": "https://www.wikidata.org/wiki/Q4182287#identifiers",
+      "network": "clear"
+    },
+    {
+      "name": "id.loc.gov",
+      "search_url": "https://id.loc.gov/authorities/sh97007463",
+      "network": "clear"
+    },
+    {
+      "name": "www.nli.org.il",
+      "search_url": "https://www.nli.org.il/en/authorities/987007546957505171",
+      "network": "clear"
+    },
+    {
+      "name": "lux.collections.yale.edu",
+      "search_url": "https://lux.collections.yale.edu/view/concept/ab437a05-aef4-4a8e-9621-ef51d9b79234",
+      "network": "clear"
+    },
+    {
+      "name": "Edit links",
+      "search_url": "https://www.wikidata.org/wiki/Special:EntityPage/Q114106#sitelinks-wikipedia",
+      "network": "clear"
+    },
+    {
+      "name": "www.wikidata.org",
+      "search_url": "https://www.wikidata.org/wiki/Special:EntityPage/Q114106",
+      "network": "clear"
+    },
+    {
+      "name": "www.researchgate.net",
+      "search_url": "https://www.researchgate.net/publication/2596239",
+      "network": "clear"
+    },
+    {
+      "name": "www.onionride.com",
+      "search_url": "https://www.onionride.com/p/onionride-how-search-engines-operate.html",
+      "network": "clear"
+    },
+    {
+      "name": "www.researchgate.net",
+      "search_url": "https://www.researchgate.net/publication/2457240",
+      "network": "clear"
+    },
+    {
+      "name": "searx.space",
+      "search_url": "https://searx.space",
+      "network": "clear"
+    },
+    {
+      "name": "dl.acm.org",
+      "search_url": "https://dl.acm.org/doi/abs/10.1145/3592626.3592641",
+      "network": "clear"
+    },
+    {
+      "name": "doi.org",
+      "search_url": "https://doi.org/10.1145%2F3592626.3592641",
+      "network": "clear"
+    },
+    {
+      "name": "www.metacrawler.com",
+      "search_url": "https://www.metacrawler.com/",
+      "network": "clear"
+    },
+    {
+      "name": "www.websearchworkshop.co.uk",
+      "search_url": "http://www.websearchworkshop.co.uk/hotbot_history.php",
+      "network": "clear"
+    },
+    {
+      "name": "ojs.aaai.org",
+      "search_url": "https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1290",
+      "network": "clear"
+    },
+    {
+      "name": "doi.org",
+      "search_url": "https://doi.org/10.1609%2Faimag.v18i2.1290",
+      "network": "clear"
+    },
+    {
+      "name": "search.worldcat.org",
+      "search_url": "https://search.worldcat.org/issn/2371-9621",
+      "network": "clear"
+    },
+    {
+      "name": "doi.org",
+      "search_url": "https://doi.org/10.1016%2FS0020-0255%2899%2900062-6",
+      "network": "clear"
+    },
+    {
+      "name": "www.indiatoday.in",
+      "search_url": "https://www.indiatoday.in/magazine/science-and-technology/story/20000904-new-kid-in-town-761641-2012-07-06",
+      "network": "clear"
+    },
+    {
+      "name": "www.geeksforgeeks.org",
+      "search_url": "https://www.geeksforgeeks.org/what-is-metasearch-engine/",
+      "network": "clear"
+    },
+    {
+      "name": "www.metaseek.nl",
+      "search_url": "https://www.metaseek.nl/",
+      "network": "clear"
+    },
+    {
+      "name": "www.startpage.com",
+      "search_url": "https://www.startpage.com/en/about-us.html",
+      "network": "clear"
+    },
+    {
+      "name": "www.timeatlas.com",
+      "search_url": "https://www.timeatlas.com/metasearch-engines-expands-your-horizon/",
+      "network": "clear"
+    },
+    {
+      "name": "homes.cs.washington.edu",
+      "search_url": "https://homes.cs.washington.edu/~etzioni/papers/ieee-metacrawler.html",
+      "network": "clear"
+    },
+    {
+      "name": "doi.org",
+      "search_url": "https://doi.org/10.1007%2F11880592_57",
+      "network": "clear"
+    },
+    {
+      "name": "www.microsoft.com",
+      "search_url": "https://www.microsoft.com/en-us/research/publication/web-spam-detection/",
+      "network": "clear"
+    },
+    {
+      "name": "www.worldservicesgroup.com",
+      "search_url": "https://www.worldservicesgroup.com/publications.asp?action=article&amp;artid=2801",
+      "network": "clear"
+    },
+    {
+      "name": "Edit links",
+      "search_url": "https://www.wikidata.org/wiki/Special:EntityPage/Q5156031#sitelinks-wikipedia",
+      "network": "clear"
+    },
+    {
+      "name": "www.wikidata.org",
+      "search_url": "https://www.wikidata.org/wiki/Special:EntityPage/Q5156031",
+      "network": "clear"
+    },
+    {
+      "name": "www.mojeek.com",
+      "search_url": "https://www.mojeek.com/support/ads/",
+      "network": "clear"
+    },
+    {
+      "name": "searchengineland.com",
+      "search_url": "http://searchengineland.com/yahoo-search-goes-secure-182343",
+      "network": "clear"
+    },
+    {
+      "name": "help.yandex.com",
+      "search_url": "https://help.yandex.com/direct-news/n-2012-07-17.xml",
+      "network": "clear"
+    },
+    {
+      "name": "www.gabrielweinberg.com",
+      "search_url": "http://www.gabrielweinberg.com/blog/2010/08/duckduckgo-now-operates-a-tor-exit-enclave.html",
+      "network": "clear"
+    },
+    {
+      "name": "info.ecosia.org",
+      "search_url": "https://info.ecosia.org/privacy",
+      "network": "clear"
+    },
+    {
+      "name": "arstechnica.com",
+      "search_url": "https://arstechnica.com/information-technology/2013/11/googlers-say-f-you-to-nsa-company-encrypts-internal-network/",
+      "network": "clear"
+    },
+    {
+      "name": "blogs.wsj.com",
+      "search_url": "https://blogs.wsj.com/digits/2013/12/05/microsoft-compares-nsa-to-advanced-persistent-threat/",
+      "network": "clear"
+    },
+    {
+      "name": "www.theverge.com",
+      "search_url": "https://www.theverge.com/2013/12/5/5177554/microsoft-plans-server-encryption-against-nsa-snooping",
+      "network": "clear"
+    },
+    {
+      "name": "www.theverge.com",
+      "search_url": "https://www.theverge.com/2013/11/18/5118150/yahoo-ceo-marissa-mayer-plans-to-encrypt-data-against-nsa-by-2014",
+      "network": "clear"
+    },
+    {
+      "name": "company.yandex.ru",
+      "search_url": "http://company.yandex.ru/technologies/personalised_search/index.xml",
+      "network": "clear"
+    },
+    {
+      "name": "www.osnews.com",
+      "search_url": "http://www.osnews.com/story/24867/DuckDuckGo_The_Privacy-centric_Alternative_to_Google",
+      "network": "clear"
+    },
+    {
+      "name": "help.kagi.com",
+      "search_url": "https://help.kagi.com/kagi/company/",
+      "network": "clear"
+    },
+    {
+      "name": "www.404media.co",
+      "search_url": "https://www.404media.co/friendship-ended-with-google-now-kagi-is-my-best-friend/",
+      "network": "clear"
+    },
+    {
+      "name": "blog.mojeek.com",
+      "search_url": "https://blog.mojeek.com/2022/03/five-billion-pages.html",
+      "network": "clear"
+    },
+    {
+      "name": "help.kagi.com",
+      "search_url": "https://help.kagi.com/kagi/search-details/search-speed.html",
+      "network": "clear"
+    },
+    {
+      "name": "duckduckgo.com",
+      "search_url": "https://duckduckgo.com/privacy",
+      "network": "clear"
+    },
+    {
+      "name": "www.usatoday.com",
+      "search_url": "https://www.usatoday.com/story/news/2013/06/06/nsa-surveillance-internet-companies/2398345/",
+      "network": "clear"
+    },
+    {
+      "name": "legal.yandex.com",
+      "search_url": "http://legal.yandex.com/confidential/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/blog/top-50-search-engines/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2026/03/Top-50-Search-Engines.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/feed/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/comments/feed/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdigitalguider.com%2Fblog%2Ftop-50-search-engines%2F",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdigitalguider.com%2Fblog%2Ftop-50-search-engines%2F&#038;format=xml",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/litespeed/css/33c6639f32b15ad7142ad0135b0227ea.css?ver=66b13",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-json/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-json/wp/v2/posts/3424",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/xmlrpc.php?rsd",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/?p=3424",
+      "network": "clear"
+    },
+    {
+      "name": "www.googletagmanager.com",
+      "search_url": "https://www.googletagmanager.com/gtag/js?id=AW-11018059527",
+      "network": "clear"
+    },
+    {
+      "name": "www.googletagmanager.com",
+      "search_url": "https://www.googletagmanager.com/gtag/js?id=AW-17930825143",
+      "network": "clear"
+    },
+    {
+      "name": "www.googletagmanager.com",
+      "search_url": "https://www.googletagmanager.com/ns.html?id=GTM-PVVGFS4",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/our-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/digital-marketing/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/digital-marketing/digital-marketing-strategy-development-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/digital-marketing/digital-marketing-audit-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/digital-marketing/content-marketing-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/digital-marketing/online-reputation-management-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/digital-marketing/franchise-digital-marketing-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/local-seo-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/local-seo-services/affordable-seo-services-for-small-business/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/local-seo-services/google-business-profile-optimization/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/social-media-marketing/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/social-media-marketing/social-media-optimization-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/social-media-marketing/social-media-management-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/social-media-marketing/social-media-advertising-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/web-development/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/web-development/wordpress-website-design/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/web-development/custom-website-design-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/web-development/magento-website-development/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/web-development/mobile-app-development/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/web-development/joomla-website-design/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/web-development/website-hosting-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-services/ecommerce-seo-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-services/link-building-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-services/technical-seo-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-services/franchise-seo-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-services/voice-search-optimization-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-services/app-store-optimization-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-services/white-label-seo-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-services/generative-engine-optimization-geo-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-services/answer-engine-optimization-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/video-seo-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/video-seo-services/youtube-seo-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/video-seo-services/customer-testimonial-video-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/video-seo-services/vlog-video-production-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/digital-advertising/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/digital-advertising/facebook-advertising-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/digital-advertising/instagram-advertising/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/digital-advertising/x-twitter-advertising-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/digital-advertising/linkedin-advertising-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/digital-advertising/pinterest-advertising-agency/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/digital-advertising/conversion-rate-optimization-cro/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/ecommerce-website-design/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/ecommerce-website-design/shopify-website-design/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/ecommerce-website-design/woocommerce-web-design/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/ecommerce-website-design/payment-gateway-integration/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/automotive-digital-marketing-agency/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/construction-digital-marketing-agency/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/dental-digital-marketing-agency/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/hvac-digital-marketing-agency/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/healthcare-digital-marketing-agency/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/insurance-digital-marketing-agency/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/law-firm-digital-marketing-agency/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/real-estate-digital-marketing-agency/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/plumbers-digital-marketing-agency/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/aviation-digital-marketing-agency/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/home-improvement-digital-marketing-agency/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/cleaning-digital-marketing-agency/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/furniture-digital-marketing-agency/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/entertainment-digital-marketing-agency/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/logistics-seo/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/appliance-repair/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/restaurant-marketing/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/agricultural-marketing/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/fitness-marketing/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/seo-for-kitchen-designers/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/massage-therapists/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/catering-seo/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/yoga-studio-digital-marketing-agency/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/pharma-seo/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/daycare-seo/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/seo-for-contractors/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/fire-protection/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/financial-seo/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/pest-control-seo/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/seo-for-salons/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/veterinary-seo/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/education-seo-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/jewelry-digital-marketing-agency/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/retail-seo/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/hospitality-seo/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/tree-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/seo-for-photographers/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/packers-movers-seo-services/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/cbd-digital-marketing-agency/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seo-market/travel-seo/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/pricing/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/pricing/seo-pricing/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/pricing/smo-packages/one-time-structural-set-up/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/pricing/smo-packages/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/pricing/web-packages/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/food-delivery-application/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/real-estate-application/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/digitalguider-portfolio/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/about-us/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/blog/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/testimonial/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/contact/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/free-consultation/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/blog/category/blog/",
+      "network": "clear"
+    },
+    {
+      "name": "secure.gravatar.com",
+      "search_url": "https://secure.gravatar.com/avatar/?s=64&#038;d=mm&#038;r=g",
+      "network": "clear"
+    },
+    {
+      "name": "secure.gravatar.com",
+      "search_url": "https://secure.gravatar.com/avatar/?s=128&#038;d=mm&#038;r=g",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2026/03/Top-50-Search-Engines-200x100.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2026/03/Top-50-Search-Engines-400x200.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2026/03/Top-50-Search-Engines-600x300.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2026/03/Top-50-Search-Engines-800x400.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/blog/do-exact-match-domains-still-work/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/blog/google-flights-step-by-step-guide-opportunity-for-travel-businesses/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/blog/how-to-increase-social-media-followers/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/blog/how-can-the-best-google-place-marketing-help-grow-your-business/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/blog/what-is-index-bloat-9-methods-to-identify-fix-it/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/digital-advertising/pay-per-click-ppc/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/blog/amazon-seo-ultimate-guide/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/blog/how-to-optimize-your-google-business-profile/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/blog/what-is-chatgpt-and-how-it-works/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/blog/what-is-google-knowledge-graph/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/blog/benefits-of-business-blogging/",
+      "network": "clear"
+    },
+    {
+      "name": "x.com",
+      "search_url": "https://x.com/intent/post?text=Top%2050%20Search%20Engines%20You%20Must%20Know%20About&amp;url=https%3A%2F%2Fdigitalguider.com%2Fblog%2Ftop-50-search-engines%2F",
+      "network": "clear"
+    },
+    {
+      "name": "api.whatsapp.com",
+      "search_url": "https://api.whatsapp.com/send?text=https%3A%2F%2Fdigitalguider.com%2Fblog%2Ftop-50-search-engines%2F",
+      "network": "clear"
+    },
+    {
+      "name": "www.tumblr.com",
+      "search_url": "https://www.tumblr.com/share/link?url=https%3A%2F%2Fdigitalguider.com%2Fblog%2Ftop-50-search-engines%2F&amp;name=Top%2050%20Search%20Engines%20You%20Must%20Know%20About&amp;description=If%20you%E2%80%99re%20like%20most%20people%2C%20you%20probably%20use%20the%20same%20handful%20of%20search%20engines%20every%20day%20without%20giving%20it%20much%20thought.%20But%20have%20you%20seen%20all%20these%2050%20search%20engines%20in%20your%20life%2C%20which%20we%E2%80%99ll%20discuss%20in%20this%20blog%3F%20If%20not%2C%20let%20us%20entitle%20you%20to%20all%20the%2050%20available%20search%20engines.%C2%A0",
+      "network": "clear"
+    },
+    {
+      "name": "pinterest.com",
+      "search_url": "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fdigitalguider.com%2Fblog%2Ftop-50-search-engines%2F&amp;description=If%20you%E2%80%99re%20like%20most%20people%2C%20you%20probably%20use%20the%20same%20handful%20of%20search%20engines%20every%20day%20without%20giving%20it%20much%20thought.%20But%20have%20you%20seen%20all%20these%2050%20search%20engines%20in%20your%20life%2C%20which%20we%E2%80%99ll%20discuss%20in%20this%20blog%3F%20If%20not%2C%20let%20us%20entitle%20you%20to%20all%20the%2050%20available%20search%20engines.%C2%A0&amp;media=",
+      "network": "clear"
+    },
+    {
+      "name": "vkontakte.ru",
+      "search_url": "https://vkontakte.ru/share.php?url=https%3A%2F%2Fdigitalguider.com%2Fblog%2Ftop-50-search-engines%2F&amp;title=Top%2050%20Search%20Engines%20You%20Must%20Know%20About&amp;description=If%20you%E2%80%99re%20like%20most%20people%2C%20you%20probably%20use%20the%20same%20handful%20of%20search%20engines%20every%20day%20without%20giving%20it%20much%20thought.%20But%20have%20you%20seen%20all%20these%2050%20search%20engines%20in%20your%20life%2C%20which%20we%E2%80%99ll%20discuss%20in%20this%20blog%3F%20If%20not%2C%20let%20us%20entitle%20you%20to%20all%20the%2050%20available%20search%20engines.%C2%A0",
+      "network": "clear"
+    },
+    {
+      "name": "secure.gravatar.com",
+      "search_url": "https://secure.gravatar.com/avatar/24bcc02f19c949937680fd21c1f9ea732ed4e6ee58d178d5da96c53636d2d917?s=72&#038;d=mm&#038;r=g",
+      "network": "clear"
+    },
+    {
+      "name": "secure.gravatar.com",
+      "search_url": "https://secure.gravatar.com/avatar/24bcc02f19c949937680fd21c1f9ea732ed4e6ee58d178d5da96c53636d2d917?s=144&#038;d=mm&#038;r=g",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2024/09/Google-Featured-Snippet.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2024/09/Google-Featured-Snippet-200x100.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2024/09/Google-Featured-Snippet-400x200.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2024/09/Google-Featured-Snippet-600x300.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2024/09/Google-Featured-Snippet-800x400.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/blog/how-to-rank-in-google-featured-snippets/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2021/09/Zero-Click-Searches.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2021/09/Zero-Click-Searches-200x100.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2021/09/Zero-Click-Searches-400x200.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2021/09/Zero-Click-Searches-600x300.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2021/09/Zero-Click-Searches-800x400.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/blog/what-are-zero-click-searches/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2026/08/Charlotte-SEO-Company.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2026/08/Charlotte-SEO-Company-200x100.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2026/08/Charlotte-SEO-Company-400x200.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2026/08/Charlotte-SEO-Company-600x300.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2026/08/Charlotte-SEO-Company-800x400.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/blog/affordable-seo-companies-in-charlotte/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2026/07/Cannabis-Marketing-.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2026/07/Cannabis-Marketing--200x100.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2026/07/Cannabis-Marketing--400x200.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2026/07/Cannabis-Marketing--600x300.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2026/07/Cannabis-Marketing--800x400.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/blog/cannabis-marketing/",
+      "network": "clear"
+    },
+    {
+      "name": "x.com",
+      "search_url": "https://x.com/guiderdigital?lang=en",
+      "network": "clear"
+    },
+    {
+      "name": "wa.me",
+      "search_url": "https://wa.me/+12265463854?text=Hello%20there!",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/austin-seo-company/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/boston-seo-company/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/charlotte-seo-company/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/chicago-seo-company/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/columbus-seo-company/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/dallas-seo-company/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/denver-seo-company/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/houston-seo-company/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/indianapolis-seo-company/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/jacksonville-seo-company/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/los-angeles-seo-company/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/miami-seo-company/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/new-york-seo-company/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/philadelphia-seo-company/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/phoenix-seo-company/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/san-antonio-seo-company/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/san-diego-seo-company/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/san-francisco-seo-company/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/seattle-seo-company/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/toronto-seo-company/",
+      "network": "clear"
+    },
+    {
+      "name": "maps.app.goo.gl",
+      "search_url": "https://maps.app.goo.gl/ai8xiCQ1a3sVra7L9",
+      "network": "clear"
+    },
+    {
+      "name": "app-na2.hubspot.com",
+      "search_url": "https://app-na2.hubspot.com/academy/achievements/p6cd2qvl/en/1/digital-guider/inbound-marketing",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2026/04/amazon-ads.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2026/04/amazon-ads-200x200.webp",
+      "network": "clear"
+    },
+    {
+      "name": "www.dmca.com",
+      "search_url": "https://www.dmca.com/Protection/Status.aspx?id=b831fce6-c8a1-4383-af88-f229ff1823ed&amp;refurl=https%3a%2f%2fdigitalguider.com%2f&amp;rlo=true",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2026/04/DMCA-Protected-shield-logo.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/uploads/2026/04/DMCA-Protected-shield-logo-200x200.webp",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/privacy-policy/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/terms-and-conditions/",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/sitemap/",
+      "network": "clear"
+    },
+    {
+      "name": "x.com",
+      "search_url": "https://x.com/intent/post?url={URL}",
+      "network": "clear"
+    },
+    {
+      "name": "api.whatsapp.com",
+      "search_url": "https://api.whatsapp.com/send?text={URL}",
+      "network": "clear"
+    },
+    {
+      "name": "www.tumblr.com",
+      "search_url": "https://www.tumblr.com/share/link?url={URL}",
+      "network": "clear"
+    },
+    {
+      "name": "pinterest.com",
+      "search_url": "https://pinterest.com/pin/create/button/?url={URL}",
+      "network": "clear"
+    },
+    {
+      "name": "vk.com",
+      "search_url": "https://vk.com/share.php?url={URL}",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-admin/admin-ajax.php",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1",
+      "network": "clear"
+    },
+    {
+      "name": "digitalguider.com",
+      "search_url": "https://digitalguider.com/wp-content/litespeed/js/e1e90443ee3c0279969eda8dc63df1a4.js?ver=66b13",
+      "network": "clear"
+    },
+    {
+      "name": "www.googletagmanager.com",
+      "search_url": "https://www.googletagmanager.com/gtag/js?id=UA-56433848-2",
+      "network": "clear"
+    },
+    {
+      "name": "mc.yandex.ru",
+      "search_url": "https://mc.yandex.ru/watch/45365607",
+      "network": "clear"
+    },
+    {
+      "name": "www.ph4.ru",
+      "search_url": "https://www.ph4.ru/search_searchcountries.php",
+      "network": "clear"
+    },
+    {
+      "name": "yandex.ru",
+      "search_url": "https://yandex.ru/search/site/",
+      "network": "clear"
+    },
+    {
+      "name": "www.ph4.org",
+      "search_url": "https://www.ph4.org/fonts_poisk.php",
+      "network": "clear"
+    },
+    {
+      "name": "www.ph4.org",
+      "search_url": "https://www.ph4.org/logo_poisk.php",
+      "network": "clear"
+    },
+    {
+      "name": "www.ph4.org",
+      "search_url": "https://www.ph4.org/bb_poisk.php",
+      "network": "clear"
+    },
+    {
+      "name": "www.ph4.org",
+      "search_url": "https://www.ph4.org/h_poisk.php",
+      "network": "clear"
+    },
+    {
+      "name": "www.ph4.org",
+      "search_url": "https://www.ph4.org/picto_poisk.php",
+      "network": "clear"
+    },
+    {
+      "name": "www.ph4.org",
+      "search_url": "https://www.ph4.org/auto_poisk.php",
+      "network": "clear"
+    },
+    {
+      "name": "www.ph4.org",
+      "search_url": "https://www.ph4.org/freeware_poisk.php",
+      "network": "clear"
+    },
+    {
+      "name": "www.ph4.org",
+      "search_url": "https://www.ph4.org/b4_poisk.php",
+      "network": "clear"
+    },
+    {
+      "name": "pagead2.googlesyndication.com",
+      "search_url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8426669976406575",
+      "network": "clear"
+    },
+    {
+      "name": "www.nine.com.au",
+      "search_url": "https://www.nine.com.au",
+      "network": "clear"
+    },
+    {
+      "name": "www.google.com.au",
+      "search_url": "https://www.google.com.au",
+      "network": "clear"
+    },
+    {
+      "name": "www.au.yahoo.com",
+      "search_url": "https://www.au.yahoo.com",
+      "network": "clear"
+    },
+    {
+      "name": "www.aussie.com.au",
+      "search_url": "https://www.aussie.com.au",
+      "network": "clear"
+    },
+    {
+      "name": "www.accessnz.co.nz",
+      "search_url": "https://www.accessnz.co.nz",
+      "network": "clear"
+    },
+    {
+      "name": "br.search.yahoo.com",
+      "search_url": "https://br.search.yahoo.com",
+      "network": "clear"
+    },
+    {
+      "name": "br.yahoo.com",
+      "search_url": "https://br.yahoo.com",
+      "network": "clear"
+    },
+    {
+      "name": "www.msn.com",
+      "search_url": "https://www.msn.com/pt-br/",
+      "network": "clear"
+    },
+    {
+      "name": "www.google.com.br",
+      "search_url": "https://www.google.com.br",
+      "network": "clear"
+    },
+    {
+      "name": "www.ca.yahoo.com",
+      "search_url": "https://www.ca.yahoo.com",
+      "network": "clear"
+    },
+    {
+      "name": "www.canada.com",
+      "search_url": "https://www.canada.com",
+      "network": "clear"
+    },
+    {
+      "name": "www.nlc-bnc.ca",
+      "search_url": "https://www.nlc-bnc.ca",
+      "network": "clear"
+    },
+    {
+      "name": "www.searchcanada.ca",
+      "search_url": "https://www.searchcanada.ca",
+      "network": "clear"
+    },
+    {
+      "name": "www.baidu.com",
+      "search_url": "https://www.baidu.com",
+      "network": "clear"
+    },
+    {
+      "name": "hk.yahoo.com",
+      "search_url": "https://hk.yahoo.com",
+      "network": "clear"
+    },
+    {
+      "name": "www.jubii.dk",
+      "search_url": "https://www.jubii.dk",
+      "network": "clear"
+    },
+    {
+      "name": "www.google.fr",
+      "search_url": "https://www.google.fr",
+      "network": "clear"
+    },
+    {
+      "name": "fr.yahoo.com",
+      "search_url": "https://fr.yahoo.com",
+      "network": "clear"
+    },
+    {
+      "name": "de.yahoo.com",
+      "search_url": "https://de.yahoo.com",
+      "network": "clear"
+    },
+    {
+      "name": "www.aladin.de",
+      "search_url": "https://www.aladin.de",
+      "network": "clear"
+    },
+    {
+      "name": "suchmaschine.com",
+      "search_url": "https://suchmaschine.com",
+      "network": "clear"
+    },
+    {
+      "name": "www.bellnet.com",
+      "search_url": "http://www.bellnet.com",
+      "network": "clear"
+    },
+    {
+      "name": "www.fireball.de",
+      "search_url": "https://www.fireball.de",
+      "network": "clear"
+    },
+    {
+      "name": "www.leo.org",
+      "search_url": "https://www.leo.org",
+      "network": "clear"
+    },
+    {
+      "name": "yellowmap.de",
+      "search_url": "https://yellowmap.de",
+      "network": "clear"
+    },
+    {
+      "name": "www.google.de",
+      "search_url": "https://www.google.de",
+      "network": "clear"
+    },
+    {
+      "name": "www.web.de",
+      "search_url": "https://www.web.de",
+      "network": "clear"
+    },
+    {
+      "name": "mavensearch.com",
+      "search_url": "http://mavensearch.com",
+      "network": "clear"
+    },
+    {
+      "name": "www.it.yahoo.com",
+      "search_url": "https://www.it.yahoo.com",
+      "network": "clear"
+    },
+    {
+      "name": "www.virgilio.it",
+      "search_url": "https://www.virgilio.it",
+      "network": "clear"
+    },
+    {
+      "name": "www.google.it",
+      "search_url": "https://www.google.it",
+      "network": "clear"
+    },
+    {
+      "name": "www.infoseek.co.jp",
+      "search_url": "https://www.infoseek.co.jp",
+      "network": "clear"
+    },
+    {
+      "name": "www.google.co.jp",
+      "search_url": "https://www.google.co.jp",
+      "network": "clear"
+    },
+    {
+      "name": "www.daum.net",
+      "search_url": "https://www.daum.net",
+      "network": "clear"
+    },
+    {
+      "name": "www.naver.com",
+      "search_url": "https://www.naver.com",
+      "network": "clear"
+    },
+    {
+      "name": "www.aeiou.pt",
+      "search_url": "https://www.aeiou.pt",
+      "network": "clear"
+    },
+    {
+      "name": "www.google.ru",
+      "search_url": "https://www.google.ru",
+      "network": "clear"
+    },
+    {
+      "name": "www.ananzi.co.za",
+      "search_url": "https://www.ananzi.co.za",
+      "network": "clear"
+    },
+    {
+      "name": "es.yahoo.com",
+      "search_url": "https://es.yahoo.com",
+      "network": "clear"
+    },
+    {
+      "name": "www.msn.com",
+      "search_url": "https://www.msn.com/es-es/",
+      "network": "clear"
+    },
+    {
+      "name": "www.google.es",
+      "search_url": "https://www.google.es",
+      "network": "clear"
+    },
+    {
+      "name": "www.search.ch",
+      "search_url": "https://www.search.ch",
+      "network": "clear"
+    },
+    {
+      "name": "www.whatuseek.com",
+      "search_url": "https://www.whatuseek.com",
+      "network": "clear"
+    },
+    {
+      "name": "www.business.com",
+      "search_url": "https://www.business.com",
+      "network": "clear"
+    },
+    {
+      "name": "www.lycos.com",
+      "search_url": "https://www.lycos.com",
+      "network": "clear"
+    },
+    {
+      "name": "www.bing.com",
+      "search_url": "https://www.bing.com",
+      "network": "clear"
+    },
+    {
+      "name": "www.yahoo.com",
+      "search_url": "https://www.yahoo.com",
+      "network": "clear"
+    },
+    {
+      "name": "www.uk.yahoo.com",
+      "search_url": "https://www.uk.yahoo.com",
+      "network": "clear"
+    },
+    {
+      "name": "www.google.co.uk",
+      "search_url": "https://www.google.co.uk",
+      "network": "clear"
+    },
+    {
+      "name": "www.lifestyle.co.uk",
+      "search_url": "https://www.lifestyle.co.uk",
+      "network": "clear"
+    },
+    {
+      "name": "coccoc.com",
+      "search_url": "https://coccoc.com",
+      "network": "clear"
+    },
+    {
+      "name": "vk.com",
+      "search_url": "https://vk.com/ph4ru",
+      "network": "clear"
+    },
+    {
+      "name": "subscribe.ru",
+      "search_url": "http://subscribe.ru/catalog/inet.review.ph4",
+      "network": "clear"
+    },
+    {
+      "name": "ph4.reformal.ru",
+      "search_url": "http://ph4.reformal.ru/",
+      "network": "clear"
+    },
+    {
+      "name": "osintradar.com",
+      "search_url": "https://osintradar.com/tools/search-engines",
+      "network": "clear"
+    },
+    {
+      "name": "osintradar.com",
+      "search_url": "https://osintradar.com/",
+      "network": "clear"
+    },
+    {
+      "name": "osintradar.com",
+      "search_url": "https://osintradar.com/categories",
+      "network": "clear"
+    },
+    {
+      "name": "osintradar.com",
+      "search_url": "https://osintradar.com/categories/osint-search-techniques",
+      "network": "clear"
+    },
+    {
+      "name": "www.searchenginecolossus.com",
+      "search_url": "https://www.searchenginecolossus.com",
+      "network": "clear"
+    },
+    {
+      "name": "statcounter.com",
+      "search_url": "https://statcounter.com/",
+      "network": "clear"
+    },
+    {
+      "name": "c.statcounter.com",
+      "search_url": "https://c.statcounter.com/290466/0//1/",
+      "network": "clear"
+    },
+    {
+      "name": "searxspbitokayvkhzhsnljde7rqmn7rvoga6e4waeub3h7ug3nghoad.onion",
+      "search_url": "http://searxspbitokayvkhzhsnljde7rqmn7rvoga6e4waeub3h7ug3nghoad.onion/",
+      "network": "clear"
+    },
+    {
+      "name": "searx.neocities.org",
+      "search_url": "https://searx.neocities.org/",
+      "network": "clear"
+    },
+    {
+      "name": "searx.neocities.org",
+      "search_url": "https://searx.neocities.org/changelog.html",
+      "network": "clear"
+    },
+    {
+      "name": "searloc.org",
+      "search_url": "https://searloc.org/",
+      "network": "clear"
+    },
+    {
+      "name": "codeberg.org",
+      "search_url": "https://codeberg.org/wazaby/searloc",
+      "network": "clear"
+    },
+    {
+      "name": "7tcuoi57curagdk7nsvmzedcxgwlrq2d6jach4ksa3vj72uxrzadmqqd.onion",
+      "search_url": "http://7tcuoi57curagdk7nsvmzedcxgwlrq2d6jach4ksa3vj72uxrzadmqqd.onion/",
+      "network": "clear"
+    },
+    {
+      "name": "docs.searxng.org",
+      "search_url": "https://docs.searxng.org/admin/installation.html",
+      "network": "clear"
+    },
+    {
+      "name": "cryptcheck.fr",
+      "search_url": "https://cryptcheck.fr/",
+      "network": "clear"
+    },
+    {
+      "name": "developer.mozilla.org",
+      "search_url": "https://developer.mozilla.org/en-US/observatory",
+      "network": "clear"
+    },
+    {
+      "name": "www.privacyguides.org",
+      "search_url": "https://www.privacyguides.org/en/search-engines/",
+      "network": "clear"
+    },
+    {
+      "name": "www.privacyguides.org",
+      "search_url": "https://www.privacyguides.org/es/search-engines/",
+      "network": "clear"
+    },
+    {
+      "name": "www.privacyguides.org",
+      "search_url": "https://www.privacyguides.org/fr/search-engines/",
+      "network": "clear"
+    },
+    {
+      "name": "www.privacyguides.org",
+      "search_url": "https://www.privacyguides.org/he/search-engines/",
+      "network": "clear"
+    },
+    {
+      "name": "www.privacyguides.org",
+      "search_url": "https://www.privacyguides.org/it/search-engines/",
+      "network": "clear"
+    },
+    {
+      "name": "www.privacyguides.org",
+      "search_url": "https://www.privacyguides.org/nl/search-engines/",
+      "network": "clear"
+    },
+    {
+      "name": "www.privacyguides.org",
+      "search_url": "https://www.privacyguides.org/zh-Hant/search-engines/",
+      "network": "clear"
+    },
+    {
+      "name": "www.privacyguides.org",
+      "search_url": "https://www.privacyguides.org/zh-TW/search-engines/",
+      "network": "clear"
+    },
+    {
+      "name": "www.privacyguides.org",
+      "search_url": "https://www.privacyguides.org/ru/search-engines/",
+      "network": "clear"
+    },
+    {
+      "name": "www.privacyguides.org",
+      "search_url": "https://www.privacyguides.org/",
+      "network": "clear"
+    },
+    {
+      "name": "www.privacyguides.org",
+      "search_url": "https://www.privacyguides.org/members/api/announcement/",
+      "network": "clear"
+    },
+    {
+      "name": "www.xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion",
+      "search_url": "http://www.xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion/en/search-engines/",
+      "network": "clear"
+    },
+    {
+      "name": "www.privacyguides.org",
+      "search_url": "https://www.privacyguides.org/public/ghost-stats.min.js?v=8037af1487",
+      "network": "clear"
+    },
+    {
+      "name": "www.privacyguides.org",
+      "search_url": "https://www.privacyguides.org/en/about/donate/",
+      "network": "clear"
+    },
+    {
+      "name": "www.privacyguides.org",
+      "search_url": "https://www.privacyguides.org/posts/tag/articles/",
+      "network": "clear"
+    },
+    {
+      "name": "www.privacyguides.org",
+      "search_url": "https://www.privacyguides.org/videos/",
+      "network": "clear"
+    },
+    {
+      "name": "www.privacyguides.org",
+      "search_url": "https://www.privacyguides.org/news/",
+      "network": "clear"
+    },
+    {
+      "name": "discuss.privacyguides.net",
+      "search_url": "https://discuss.privacyguides.net/",
+      "network": "clear"
+    },
+    {
+      "name": "discuss.privacyguides.net",
+      "search_url": "https://discuss.privacyguides.net/c/community-wiki/9411/none",
+      "network": "clear"
+    },
+    {
+      "name": "fontawesome.com",
+      "search_url": "https://fontawesome.com",
+      "network": "clear"
+    },
+    {
+      "name": "fontawesome.com",
+      "search_url": "https://fontawesome.com/license/free",
+      "network": "clear"
+    },
+    {
+      "name": "discuss.privacyguides.net",
+      "search_url": "https://discuss.privacyguides.net/u?group=team&amp;order=solutions&amp;period=all",
+      "network": "clear"
+    },
+    {
+      "name": "www.privacyguides.org",
+      "search_url": "https://www.privacyguides.org/en/",
+      "network": "clear"
+    },
+    {
+      "name": "www.privacyguides.org",
+      "search_url": "https://www.privacyguides.org/en/tools/",
+      "network": "clear"
+    },
+    {
+      "name": "www.privacyguides.org",
+      "search_url": "https://www.privacyguides.org/en/cloud/",
+      "network": "clear"
+    },
+    {
+      "name": "brave.com",
+      "search_url": "https://brave.com/search-independence",
+      "network": "clear"
+    },
+    {
+      "name": "help.duckduckgo.com",
+      "search_url": "https://help.duckduckgo.com/results/sources",
+      "network": "clear"
+    },
+    {
+      "name": "support.startpage.com",
+      "search_url": "https://support.startpage.com/hc/articles/4522435533844-What-is-the-relationship-between-Startpage-and-your-search-partners-like-Google-and-Microsoft-Bing",
+      "network": "clear"
+    },
+    {
+      "name": "search.brave.com",
+      "search_url": "https://search.brave.com/help/discussions",
+      "network": "clear"
+    },
+    {
+      "name": "search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion",
+      "search_url": "https://search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion",
+      "network": "clear"
+    },
+    {
+      "name": "search.brave.com",
+      "search_url": "https://search.brave.com/help/privacy-policy",
+      "network": "clear"
+    },
+    {
+      "name": "search.brave.com",
+      "search_url": "https://search.brave.com/help",
+      "network": "clear"
+    },
+    {
+      "name": "search.brave.com",
+      "search_url": "https://search.brave.com/help/usage-metrics",
+      "network": "clear"
+    },
+    {
+      "name": "duckduckgo.com",
+      "search_url": "https://duckduckgo.com/bang",
+      "network": "clear"
+    },
+    {
+      "name": "help.duckduckgo.com",
+      "search_url": "https://help.duckduckgo.com/duckduckgo-help-pages/features/instant-answers-and-other-features",
+      "network": "clear"
+    },
+    {
+      "name": "duckduckgo.com",
+      "search_url": "https://duckduckgo.com",
+      "network": "clear"
+    },
+    {
+      "name": "duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion",
+      "search_url": "https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion",
+      "network": "clear"
+    },
+    {
+      "name": "help.duckduckgo.com",
+      "search_url": "https://help.duckduckgo.com",
+      "network": "clear"
+    },
+    {
+      "name": "help.duckduckgo.com",
+      "search_url": "https://help.duckduckgo.com/features/non-javascript",
+      "network": "clear"
+    },
+    {
+      "name": "duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion",
+      "search_url": "https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/lite",
+      "network": "clear"
+    },
+    {
+      "name": "duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion",
+      "search_url": "https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/html",
+      "network": "clear"
+    },
+    {
+      "name": "startpage.com",
+      "search_url": "https://startpage.com/en/anonymous-view",
+      "network": "clear"
+    },
+    {
+      "name": "support.startpage.com",
+      "search_url": "https://support.startpage.com/hc/articles/4455540212116-The-Anonymous-View-Proxy-technical-details",
+      "network": "clear"
+    },
+    {
+      "name": "startpage.com",
+      "search_url": "https://startpage.com",
+      "network": "clear"
+    },
+    {
+      "name": "startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion",
+      "search_url": "http://startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion",
+      "network": "clear"
+    },
+    {
+      "name": "startpage.com",
+      "search_url": "https://startpage.com/en/privacy-policy",
+      "network": "clear"
+    },
+    {
+      "name": "support.startpage.com",
+      "search_url": "https://support.startpage.com/hc/categories/4481917470356-Startpage-Search-Engine",
+      "network": "clear"
+    },
+    {
+      "name": "system1.com",
+      "search_url": "https://system1.com/terms/privacy-policy",
+      "network": "clear"
+    },
+    {
+      "name": "support.startpage.com",
+      "search_url": "https://support.startpage.com/hc/en-us/articles/24786602537364-Startpage-s-Tor-onion-service",
+      "network": "clear"
+    },
+    {
+      "name": "searxng.org",
+      "search_url": "https://searxng.org",
+      "network": "clear"
+    },
+    {
+      "name": "search.brave.com",
+      "search_url": "https://search.brave.com/help/anonymous-local-results",
+      "network": "clear"
+    },
+    {
+      "name": "startpage.com",
+      "search_url": "https://startpage.com/en/privacy-policy#section-4",
+      "network": "clear"
+    },
+    {
+      "name": "discuss.privacyguides.net",
+      "search_url": "https://discuss.privacyguides.net/c/site-development/7",
+      "network": "clear"
+    },
+    {
+      "name": "www.privacyguides.org",
+      "search_url": "https://www.privacyguides.org/license",
+      "network": "clear"
+    },
+    {
+      "name": "www.privacyguides.org",
+      "search_url": "https://www.privacyguides.org/en/privacy/",
+      "network": "clear"
+    },
+    {
+      "name": "mastodon.neat.computer",
+      "search_url": "https://mastodon.neat.computer/@privacyguides",
+      "network": "clear"
+    },
+    {
+      "name": "neat.tube",
+      "search_url": "https://neat.tube/c/privacyguides",
+      "network": "clear"
+    },
+    {
+      "name": "matrix.to",
+      "search_url": "https://matrix.to/#/#privacyguides:matrix.org",
+      "network": "clear"
+    },
+    {
+      "name": "www.xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion",
+      "search_url": "http://www.xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion/",
+      "network": "clear"
+    },
+    {
+      "name": "Edit links",
+      "search_url": "https://www.wikidata.org/wiki/Special:EntityPage/Q19541#sitelinks-wikipedia",
+      "network": "clear"
+    },
+    {
+      "name": "www.wikidata.org",
+      "search_url": "https://www.wikidata.org/wiki/Special:EntityPage/Q19541",
+      "network": "clear"
+    },
+    {
+      "name": "www.jstor.org",
+      "search_url": "https://www.jstor.org/action/doBasicSearch?Query=%22Search+engine%22+computing&amp;acc=on&amp;wc=on",
+      "network": "clear"
+    },
+    {
+      "name": "ieeexplore.ieee.org",
+      "search_url": "http://ieeexplore.ieee.org/search/searchresult.jsp?queryText%3Dsearch&#x2D;engine&#x26;sortType=asc_p_Publication_Year&#x26;pageNumber=1&#x26;resultAction=SORT",
+      "network": "clear"
+    },
+    {
+      "name": "paulandre.com",
+      "search_url": "https://paulandre.com/understanding-search-queries/",
+      "network": "clear"
+    },
+    {
+      "name": "doi.org",
+      "search_url": "https://doi.org/10.1017%2FS0269889706001128",
+      "network": "clear"
+    },
+    {
+      "name": "hdl.handle.net",
+      "search_url": "https://hdl.handle.net/10072%2F15207",
+      "network": "clear"
+    },
+    {
+      "name": "api.semanticscholar.org",
+      "search_url": "https://api.semanticscholar.org/CorpusID:2378301",
+      "network": "clear"
+    },
+    {
+      "name": "ui.adsabs.harvard.edu",
+      "search_url": "https://ui.adsabs.harvard.edu/abs/1987IJSSC..22..829Y",
+      "network": "clear"
+    },
+    {
+      "name": "doi.org",
+      "search_url": "https://doi.org/10.1109%2FJSSC.1987.1052819",
+      "network": "clear"
+    },
+    {
+      "name": "www.wikidata.org",
+      "search_url": "https://www.wikidata.org/wiki/Q19541#identifiers",
+      "network": "clear"
+    },
+    {
+      "name": "d-nb.info",
+      "search_url": "https://d-nb.info/gnd/4423007-2",
+      "network": "clear"
+    },
+    {
+      "name": "id.worldcat.org",
+      "search_url": "https://id.worldcat.org/fast/1110372",
+      "network": "clear"
+    },
+    {
+      "name": "id.loc.gov",
+      "search_url": "https://id.loc.gov/authorities/sh00001050",
+      "network": "clear"
+    },
+    {
+      "name": "catalogue.bnf.fr",
+      "search_url": "https://catalogue.bnf.fr/ark:/12148/cb13558463d",
+      "network": "clear"
+    },
+    {
+      "name": "data.bnf.fr",
+      "search_url": "https://data.bnf.fr/ark:/12148/cb13558463d",
+      "network": "clear"
+    },
+    {
+      "name": "id.ndl.go.jp",
+      "search_url": "https://id.ndl.go.jp/auth/ndlna/00964483",
+      "network": "clear"
+    },
+    {
+      "name": "www.nli.org.il",
+      "search_url": "https://www.nli.org.il/en/authorities/987007291618305171",
+      "network": "clear"
+    }
+  ]
+}
