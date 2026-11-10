@@ -63,7 +63,7 @@ Self-test (`python main.py --selftest`) |
 
 ### Option A — Standalone exe
 
-1. Download `ResourceGather.exe` from the [latest release](releases/latest).
+1. Download `ResourceGather.exe` from the [latest release](https://github.com/Nortaq-PlayNexus/resourcegather/releases/latest).
 2. Keep it next to `config/` and `data/` (as shipped).
 3. Double-click `ResourceGather.exe`, or run with CLI flags below.
 
